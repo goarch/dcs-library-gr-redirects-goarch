@@ -23,7 +23,6 @@ meHO.commemorations = me.m09.d21_gr_GR_cog.meHO.commemorations
 meHO.note1 = me.m09.d21_gr_GR_cog.meHO.note1
 meHO.note2 = me.m09.d21_gr_GR_cog.meHO.note2
 
-
 meLI.TheotokosHymn.mode = me.m09.d21_gr_GR_cog.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.incipit = me.m09.d21_gr_GR_cog.meLI.TheotokosHymn.incipit
 meLI.TheotokosHymn.text = me.m09.d21_gr_GR_cog.meLI.TheotokosHymn.text

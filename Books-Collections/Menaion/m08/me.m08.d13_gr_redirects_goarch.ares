@@ -25,7 +25,6 @@ meHO.note2 = me.m08.d13_gr_GR_cog.meHO.note2
 meDA.dismissal = me.m08.d13_gr_GR_cog.meDA.dismissal
 meDA.dismissal.incipit = me.m08.d13_gr_GR_cog.meDA.dismissal.incipit
 
-
 meLI.TheotokosHymn.mode = me.m08.d13_gr_GR_cog.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.incipit = me.m08.d13_gr_GR_cog.meLI.TheotokosHymn.incipit
 meLI.TheotokosHymn.text = me.m08.d13_gr_GR_cog.meLI.TheotokosHymn.text

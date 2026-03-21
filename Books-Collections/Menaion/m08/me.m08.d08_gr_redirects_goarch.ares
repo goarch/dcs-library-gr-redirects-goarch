@@ -388,7 +388,6 @@ meMA.AposGlory.melody = me.m08.d08_gr_GR_cog.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m08.d08_gr_GR_cog.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m08.d08_gr_GR_cog.meMA.AposGlory.text
 
-
 meLI.Megalynarion.text = me.m08.d08_gr_GR_cog.meLI.Megalynarion.text
 
 alt1.meDA.commemoration.first_short = me.m08.d08_gr_GR_cog.alt1.meDA.commemoration.first_short

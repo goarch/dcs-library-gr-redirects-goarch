@@ -340,7 +340,6 @@ meMA.Ode9H.melody = me.m08.d24_gr_GR_cog.meMA.Ode9H.melody
 meMA.Ode9H.incipit = me.m08.d24_gr_GR_cog.meMA.Ode9H.incipit
 meMA.Ode9H.text = me.m08.d24_gr_GR_cog.meMA.Ode9H.text
 
-
 meLI.MM.CommunionHymn.text = me.m08.d24_gr_GR_cog.meLI.MM.CommunionHymn.text
 
 meLI.Megalynarion.text = me.m08.d24_gr_GR_cog.meLI.Megalynarion.text
@@ -799,7 +798,6 @@ alt1.meLI.Megalynarion.text = me.m08.d24_gr_GR_cog.alt1.meLI.Megalynarion.text
 
 alt1.meCouplet_v1.text = me.m08.d24_gr_GR_cog.alt1.meCouplet_v1.text
 alt1.meCouplet_v2.text = me.m08.d24_gr_GR_cog.alt1.meCouplet_v2.text
-
 
 alt2.meDA.date = me.m08.d24_gr_GR_cog.alt2.meDA.date
 alt2.meDA.commemoration.full = me.m08.d24_gr_GR_cog.alt2.meDA.commemoration.full

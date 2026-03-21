@@ -310,7 +310,6 @@ meMA.Ode9H.melody = me.m12.d16_gr_GR_cog.meMA.Ode9H.melody
 meMA.Ode9H.incipit = me.m12.d16_gr_GR_cog.meMA.Ode9H.incipit
 meMA.Ode9H.text = me.m12.d16_gr_GR_cog.meMA.Ode9H.text
 
-
 meLI.Megalynarion.text = me.m12.d16_gr_GR_cog.meLI.Megalynarion.text
 
 alt1.meDA.date = me.m12.d16_gr_GR_cog.alt1.meDA.date
