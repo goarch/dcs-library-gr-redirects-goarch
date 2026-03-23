@@ -15,6 +15,7 @@ misc.blank = miscellanea_gr_GR_cog.misc.blank
 misc.bookmark = miscellanea_gr_GR_cog.misc.bookmark
 misc.bracket.open = miscellanea_gr_GR_cog.misc.bracket.open
 misc.bracket.close = miscellanea_gr_GR_cog.misc.bracket.close
+misc.custcontent = miscellanea_gr_GR_cog.misc.custcontent
 misc.greekquotation.left = miscellanea_gr_GR_cog.misc.greekquotation.left
 misc.greekquotation.right = miscellanea_gr_GR_cog.misc.greekquotation.right
 misc.horizontal_line.dash1 = miscellanea_gr_GR_cog.misc.horizontal_line.dash1
