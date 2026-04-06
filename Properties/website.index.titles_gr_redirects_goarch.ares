@@ -95,7 +95,7 @@ h92.html.link = website.index.titles_gr_GR_cog.h92.html.link
 h98.html.link = website.index.titles_gr_GR_cog.h98.html.link
 
 li.html.link = website.index.titles_gr_GR_cog.li.html.link
-li1.html.link = website.index.titles_gr_GR_cog.li1.html.link
+//li1.html.link = website.index.titles_gr_GR_cog.li1.html.link
 li2.html.link = website.index.titles_gr_GR_cog.li2.html.link
 li3.html.link = website.index.titles_gr_GR_cog.li3.html.link
 li4.html.link = website.index.titles_gr_GR_cog.li4.html.link
@@ -106,7 +106,7 @@ li8.html.link = website.index.titles_gr_GR_cog.li8.html.link
 li9.html.link = website.index.titles_gr_GR_cog.li9.html.link
 
 ma.html.link = website.index.titles_gr_GR_cog.ma.html.link
-ma1.html.link = website.index.titles_gr_GR_cog.ma1.html.link
+//ma1.html.link = website.index.titles_gr_GR_cog.ma1.html.link
 ma2.html.link = website.index.titles_gr_GR_cog.ma2.html.link
 ma3.html.link = website.index.titles_gr_GR_cog.ma3.html.link
 ma4.html.link = website.index.titles_gr_GR_cog.ma4.html.link
