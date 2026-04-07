@@ -40,6 +40,12 @@ cl.ordinand.deacon.gen.text = client_gr_US_goa.cl.ordinand.deacon.gen.text
 cl.ordinand.priest.acc.text = client_gr_US_goa.cl.ordinand.priest.acc.text
 cl.ordinand.priest.gen.text = client_gr_US_goa.cl.ordinand.priest.gen.text
 
+cl.conVE.SticBoth.churchname.text = client_gr_US_goa.cl.conVE.SticBoth.churchname.text
+cl.consecration.name = client_gr_US_goa.cl.consecration.name
+cl.consecration.prayer1 = client_gr_US_goa.cl.consecration.prayer1
+cl.consecration.greatlitany.finalpetition.name = client_gr_US_goa.cl.consecration.greatlitany.finalpetition.name
+cl.relic_saints.text = client_gr_US_goa.cl.relic_saints.text
+
 cl.euORD.EP.p402a = client_gr_GR_cog.cl.euORD.EP.p402a // name of candidate nominative
 cl.euORD.EP.p402b = client_gr_GR_cog.cl.euORD.EP.p402b // name of diocese genitive 
 cl.euORD.EP.p405a = client_gr_GR_cog.cl.euORD.EP.p405a // name of patriarch dative 
@@ -75,11 +81,6 @@ cl.Kontakion1.title = client_gr_US_goa.cl.Kontakion1.title
 cl.Kontakion1.mode = client_gr_US_goa.cl.Kontakion1.mode
 cl.Kontakion1.melody = client_gr_US_goa.cl.Kontakion1.melody
 cl.Kontakion1.text = client_gr_US_goa.cl.Kontakion1.text
-
-cl.conVE.SticBoth.churchname.text = client_gr_US_goa.cl.conVE.SticBoth.churchname.text
-cl.consecration.name = client_gr_US_goa.cl.consecration.name
-cl.consecration.prayer1 = client_gr_US_goa.cl.consecration.prayer1
-cl.consecration.greatlitany.finalpetition.name = client_gr_US_goa.cl.consecration.greatlitany.finalpetition.name // (καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
 cl.localpatronsaint2.supplication = client_gr_US_goa.cl.localpatronsaint2.supplication
 cl.localpatronsaint2.dismissal = client_gr_US_goa.cl.localpatronsaint2.dismissal

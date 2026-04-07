@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = actors_gr_redirects_goarch
 
 ac.Archbishop = actors_gr_GR_cog.ac.Archbishop
+ac.Bishop = actors_gr_GR_cog.ac.Bishop
 ac.Bishop_Elect = actors_gr_GR_cog.ac.Bishop_Elect
 ac.Candidate_Sponsor = actors_gr_GR_cog.ac.Candidate_Sponsor
 ac.Chanter = actors_gr_GR_cog.ac.Chanter
@@ -38,6 +39,7 @@ ac.Superior = actors_gr_GR_cog.ac.Superior
 ac.SuperiorOrReader = actors_gr_GR_cog.ac.SuperiorOrReader
 
 ac.IL.Archbishop = actors_gr_GR_cog.ac.IL.Archbishop
+ac.IL.Bishop = actors_gr_GR_cog.ac.IL.Bishop
 ac.IL.Bishop_Elect = actors_gr_GR_cog.ac.IL.Bishop_Elect
 ac.IL.Candidate_Sponsor = actors_gr_GR_cog.ac.IL.Candidate_Sponsor
 ac.IL.Chanter = actors_gr_GR_cog.ac.IL.Chanter
