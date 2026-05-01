@@ -86,6 +86,11 @@ name.holytrinity.conVE.SticBoth.churchname.text = names_gr_US_goa.name.holytrini
 name.holytrinity.consecration.name = names_gr_US_goa.name.holytrinity.consecration.name
 name.holytrinity.consecration.prayer1 = names_gr_US_goa.name.holytrinity.consecration.prayer1
 
+name.holywisdom.localchurch.title = names_gr_US_goa.name.holywisdom.localchurch.title
+name.holywisdom.conVE.SticBoth.churchname.text = names_gr_US_goa.name.holywisdom.conVE.SticBoth.churchname.text
+name.holywisdom.consecration.name = names_gr_US_goa.name.holywisdom.consecration.name
+name.holywisdom.consecration.prayer1 = names_gr_US_goa.name.holywisdom.consecration.prayer1
+
 name.iakovos.localsaint1.supplication = names_gr_US_goa.name.iakovos.localsaint1.supplication
 name.iakovos.localsaint1.dismissal = names_gr_US_goa.name.iakovos.localsaint1.dismissal
 name.iakovos.localchurch.title = names_gr_US_goa.name.iakovos.localchurch.title
