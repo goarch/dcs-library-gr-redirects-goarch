@@ -49,6 +49,7 @@ cl.bishop2.name.commemoration = client_gr_US_goa.cl.bishop2.name.commemoration
 cl.fimi.bishop1 = client_gr_US_goa.cl.fimi.bishop1 // blank or yes
 
 //Ordination parts in eu.ordination
+cl.ordinand.subdeacon.acc.text = client_gr_US_goa.cl.ordinand.subdeacon.acc.text
 cl.ordinand.deacon.acc.text = client_gr_US_goa.cl.ordinand.deacon.acc.text
 cl.ordinand.deacon.gen.text = client_gr_US_goa.cl.ordinand.deacon.gen.text
 cl.ordinand.priest.acc.text = client_gr_US_goa.cl.ordinand.priest.acc.text
