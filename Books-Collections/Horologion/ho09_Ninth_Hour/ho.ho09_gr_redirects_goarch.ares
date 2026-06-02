@@ -18,7 +18,7 @@ hoH9.Troparion2.text = ho.ho09_gr_GR_cog.hoH9.Troparion2.text
 hoH9.Troparion3.incipit = ho.ho09_gr_GR_cog.hoH9.Troparion3.incipit
 hoH9.Troparion3.text = ho.ho09_gr_GR_cog.hoH9.Troparion3.text
 
-hoH9.Prayer.R01 = ho.ho09_gr_GR_cog.hoH9.Prayer.R01
+hoH9.Prayer.R01.rubric = ho.ho09_gr_GR_cog.hoH9.Prayer.R01.rubric
 hoH9.Prayer.title = ho.ho09_gr_GR_cog.hoH9.Prayer.title
 hoH9.Prayer.incipit = ho.ho09_gr_GR_cog.hoH9.Prayer.incipit
 hoH9.Prayer.text = ho.ho09_gr_GR_cog.hoH9.Prayer.text

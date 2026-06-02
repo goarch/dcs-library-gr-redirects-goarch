@@ -6,28 +6,28 @@ lecAP.title3.text = lectionaries_gr_GR_cog.lecAP.title3.text
 lecAP.title4.text = lectionaries_gr_GR_cog.lecAP.title4.text
 lecAP.title5.text = lectionaries_gr_GR_cog.lecAP.title5.text
 
-lecAP.R01 = lectionaries_gr_GR_cog.lecAP.R01
-lecAP.R02 = lectionaries_gr_GR_cog.lecAP.R02
-lecAP.R03 = lectionaries_gr_GR_cog.lecAP.R03
-lecAP.R04 = lectionaries_gr_GR_cog.lecAP.R04
-lecAP.R05 = lectionaries_gr_GR_cog.lecAP.R05
+lecAP.R01.rubric = lectionaries_gr_GR_cog.lecAP.R01.rubric
+lecAP.R02.rubric = lectionaries_gr_GR_cog.lecAP.R02.rubric
+lecAP.R03.rubric = lectionaries_gr_GR_cog.lecAP.R03.rubric
+lecAP.R04.rubric = lectionaries_gr_GR_cog.lecAP.R04.rubric
+lecAP.R05.rubric = lectionaries_gr_GR_cog.lecAP.R05.rubric
 
-lecAP.mc.R014 = lectionaries_gr_GR_cog.lecAP.mc.R014
-lecAP.mc.R021 = lectionaries_gr_GR_cog.lecAP.mc.R021
-lecAP.mc.R028 = lectionaries_gr_GR_cog.lecAP.mc.R028
-lecAP.mc.R050 = lectionaries_gr_GR_cog.lecAP.mc.R050
-lecAP.mc.R056 = lectionaries_gr_GR_cog.lecAP.mc.R056
-lecAP.mc.R057 = lectionaries_gr_GR_cog.lecAP.mc.R057
-lecAP.mc.R071a = lectionaries_gr_GR_cog.lecAP.mc.R071a
-lecAP.mc.R071b = lectionaries_gr_GR_cog.lecAP.mc.R071b
-lecAP.mc.R120 = lectionaries_gr_GR_cog.lecAP.mc.R120
+lecAP.mc.R014.rubric = lectionaries_gr_GR_cog.lecAP.mc.R014.rubric
+lecAP.mc.R021.rubric = lectionaries_gr_GR_cog.lecAP.mc.R021.rubric
+lecAP.mc.R028.rubric = lectionaries_gr_GR_cog.lecAP.mc.R028.rubric
+lecAP.mc.R050.rubric = lectionaries_gr_GR_cog.lecAP.mc.R050.rubric
+lecAP.mc.R056.rubric = lectionaries_gr_GR_cog.lecAP.mc.R056.rubric
+lecAP.mc.R057.rubric = lectionaries_gr_GR_cog.lecAP.mc.R057.rubric
+lecAP.mc.R071a.rubric = lectionaries_gr_GR_cog.lecAP.mc.R071a.rubric
+lecAP.mc.R071b.rubric = lectionaries_gr_GR_cog.lecAP.mc.R071b.rubric
+lecAP.mc.R120.rubric = lectionaries_gr_GR_cog.lecAP.mc.R120.rubric
 
-lecAP.me.m07.dHF.R01 = lectionaries_gr_GR_cog.lecAP.me.m07.dHF.R01
-lecAP.me.m10.dHF.R01 = lectionaries_gr_GR_cog.lecAP.me.m10.dHF.R01
-lecAP.me.m11.d16.R01 = lectionaries_gr_GR_cog.lecAP.me.m11.d16.R01
-lecAP.me.m12.dFF.R01 = lectionaries_gr_GR_cog.lecAP.me.m12.dFF.R01
-lecAP.me.m12.dSunBE.R01 = lectionaries_gr_GR_cog.lecAP.me.m12.dSunBE.R01
-lecAP.me.m12.dSunBE.R02 = lectionaries_gr_GR_cog.lecAP.me.m12.dSunBE.R02
+lecAP.me.m07.dHF.R01.rubric = lectionaries_gr_GR_cog.lecAP.me.m07.dHF.R01.rubric
+lecAP.me.m10.dHF.R01.rubric = lectionaries_gr_GR_cog.lecAP.me.m10.dHF.R01.rubric
+lecAP.me.m11.d16.R01.rubric = lectionaries_gr_GR_cog.lecAP.me.m11.d16.R01.rubric
+lecAP.me.m12.dFF.R01.rubric = lectionaries_gr_GR_cog.lecAP.me.m12.dFF.R01.rubric
+lecAP.me.m12.dSunBE.R01.rubric = lectionaries_gr_GR_cog.lecAP.me.m12.dSunBE.R01.rubric
+lecAP.me.m12.dSunBE.R02.rubric = lectionaries_gr_GR_cog.lecAP.me.m12.dSunBE.R02.rubric
 
 lecAP.forSundays = lectionaries_gr_GR_cog.lecAP.forSundays
 lecAP.forWeekdays = lectionaries_gr_GR_cog.lecAP.forWeekdays
@@ -108,10 +108,10 @@ lecEV.forWomenMartyrs = lectionaries_gr_GR_cog.lecEV.forWomenMartyrs
 lecEV.forWomenDevout = lectionaries_gr_GR_cog.lecEV.forWomenDevout
 lecEV.forWomenDevoutMartyrs = lectionaries_gr_GR_cog.lecEV.forWomenDevoutMartyrs
 
-lecEV.me.m07.dHF.R01 = lectionaries_gr_GR_cog.lecEV.me.m07.dHF.R01
-lecEV.me.m10.dHF.R01 = lectionaries_gr_GR_cog.lecEV.me.m10.dHF.R01
-lecEV.me.m12.dFF.R01 = lectionaries_gr_GR_cog.lecEV.me.m12.dFF.R01
-lecEV.me.m12.dSunBE.R01 = lectionaries_gr_GR_cog.lecEV.me.m12.dSunBE.R01
+lecEV.me.m07.dHF.R01.rubric = lectionaries_gr_GR_cog.lecEV.me.m07.dHF.R01.rubric
+lecEV.me.m10.dHF.R01.rubric = lectionaries_gr_GR_cog.lecEV.me.m10.dHF.R01.rubric
+lecEV.me.m12.dFF.R01.rubric = lectionaries_gr_GR_cog.lecEV.me.m12.dFF.R01.rubric
+lecEV.me.m12.dSunBE.R01.rubric = lectionaries_gr_GR_cog.lecEV.me.m12.dSunBE.R01.rubric
 
 lecLE.SetEachYear.text = lectionaries_gr_GR_cog.lecLE.SetEachYear.text
 

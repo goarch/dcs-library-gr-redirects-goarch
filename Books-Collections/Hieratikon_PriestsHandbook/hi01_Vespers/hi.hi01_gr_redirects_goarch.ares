@@ -4,20 +4,20 @@ hiVE.title = hi.hi01_gr_US_goa.hiVE.title
 
 hiVE.Key1000.title = hi.hi01_gr_US_goa.hiVE.Key1000.title
 
-hiVE.R1101 = hi.hi01_gr_GR_cog.hiVE.R1101
-hiVE.R1102 = hi.hi01_gr_US_goa.hiVE.R1102
-hiVE.R1103 = hi.hi01_gr_US_goa.hiVE.R1103
-hiVE.R1104 = hi.hi01_gr_US_goa.hiVE.R1104
-hiVE.R1105 = hi.hi01_gr_US_goa.hiVE.R1105
+hiVE.R1101.rubric = hi.hi01_gr_GR_cog.hiVE.R1101.rubric
+hiVE.R1102.rubric = hi.hi01_gr_US_goa.hiVE.R1102.rubric
+hiVE.R1103.rubric = hi.hi01_gr_US_goa.hiVE.R1103.rubric
+hiVE.R1104.rubric = hi.hi01_gr_US_goa.hiVE.R1104.rubric
+hiVE.R1105.rubric = hi.hi01_gr_US_goa.hiVE.R1105.rubric
 
-hiVE.R1106 = hi.hi01_gr_US_goa.hiVE.R1106
-hiVE.R1107 = hi.hi01_gr_GR_cog.hiVE.R1107
-hiVE.R1108 = hi.hi01_gr_GR_cog.hiVE.R1108
-hiVE.R1109 = hi.hi01_gr_GR_cog.hiVE.R1109
-hiVE.R1110 = hi.hi01_gr_US_goa.hiVE.R1110
-hiVE.R1111 = hi.hi01_gr_US_goa.hiVE.R1111
-hiVE.R1112 = hi.hi01_gr_GR_cog.hiVE.R1112
-hiVE.R1113 = hi.hi01_gr_US_goa.hiVE.R1113
+hiVE.R1106.rubric = hi.hi01_gr_US_goa.hiVE.R1106.rubric
+hiVE.R1107.rubric = hi.hi01_gr_GR_cog.hiVE.R1107.rubric
+hiVE.R1108.rubric = hi.hi01_gr_GR_cog.hiVE.R1108.rubric
+hiVE.R1109.rubric = hi.hi01_gr_GR_cog.hiVE.R1109.rubric
+hiVE.R1110.rubric = hi.hi01_gr_US_goa.hiVE.R1110.rubric
+hiVE.R1111.rubric = hi.hi01_gr_US_goa.hiVE.R1111.rubric
+hiVE.R1112.rubric = hi.hi01_gr_GR_cog.hiVE.R1112.rubric
+hiVE.R1113.rubric = hi.hi01_gr_US_goa.hiVE.R1113.rubric
 
 hiVE.Key1100.title = hi.hi01_gr_US_goa.hiVE.Key1100.title
 hiVE.Key1100.text = hi.hi01_gr_US_goa.hiVE.Key1100.text
@@ -49,8 +49,8 @@ hiVE.Key1107.title = hi.hi01_gr_US_goa.hiVE.Key1107.title
 hiVE.Key1107.text = hi.hi01_gr_US_goa.hiVE.Key1107.text
 hiVE.Key1107.exclamation = hi.hi01_gr_US_goa.hiVE.Key1107.exclamation
 
-hiVE.R1114 = hi.hi01_gr_US_goa.hiVE.R1114
-hiVE.R1115 = hi.hi01_gr_GR_cog.hiVE.R1115
+hiVE.R1114.rubric = hi.hi01_gr_US_goa.hiVE.R1114.rubric
+hiVE.R1115.rubric = hi.hi01_gr_GR_cog.hiVE.R1115.rubric
 
 hiVE.Key1108.title = hi.hi01_gr_US_goa.hiVE.Key1108.title
 hiVE.Key1108.text = hi.hi01_gr_US_goa.hiVE.Key1108.text
@@ -67,38 +67,38 @@ hiVE.Key1111.text = hi.hi01_gr_US_goa.hiVE.Key1111.text
 hiVE.Key1111.exclamation = hi.hi01_gr_US_goa.hiVE.Key1111.exclamation
 
 hiVE.Key1200.title = hi.hi01_gr_GR_cog.hiVE.Key1200.title
-hiVE.R1201 = hi.hi01_gr_GR_cog.hiVE.R1201
+hiVE.R1201.rubric = hi.hi01_gr_GR_cog.hiVE.R1201.rubric
 
 hiVE.Key1300.title = hi.hi01_gr_GR_cog.hiVE.Key1300.title
-hiVE.R1301 = hi.hi01_gr_GR_cog.hiVE.R1301
-hiVE.R1302 = hi.hi01_gr_GR_cog.hiVE.R1302
-hiVE.R1303 = hi.hi01_gr_GR_cog.hiVE.R1303
-hiVE.R1304 = hi.hi01_gr_GR_cog.hiVE.R1304
-hiVE.R1305 = hi.hi01_gr_GR_cog.hiVE.R1305
-hiVE.R1306 = hi.hi01_gr_GR_cog.hiVE.R1306
-hiVE.R1307 = hi.hi01_gr_GR_cog.hiVE.R1307
-hiVE.R1308 = hi.hi01_gr_GR_cog.hiVE.R1308
-hiVE.R1309 = hi.hi01_gr_GR_cog.hiVE.R1309
-hiVE.R1310 = hi.hi01_gr_GR_cog.hiVE.R1310
-hiVE.R1311 = hi.hi01_gr_GR_cog.hiVE.R1311
-hiVE.R1312 = hi.hi01_gr_GR_cog.hiVE.R1312
-hiVE.R1313 = hi.hi01_gr_GR_cog.hiVE.R1313
-hiVE.R1314 = hi.hi01_gr_GR_cog.hiVE.R1314
+hiVE.R1301.rubric = hi.hi01_gr_GR_cog.hiVE.R1301.rubric
+hiVE.R1302.rubric = hi.hi01_gr_GR_cog.hiVE.R1302.rubric
+hiVE.R1303.rubric = hi.hi01_gr_GR_cog.hiVE.R1303.rubric
+hiVE.R1304.rubric = hi.hi01_gr_GR_cog.hiVE.R1304.rubric
+hiVE.R1305.rubric = hi.hi01_gr_GR_cog.hiVE.R1305.rubric
+hiVE.R1306.rubric = hi.hi01_gr_GR_cog.hiVE.R1306.rubric
+hiVE.R1307.rubric = hi.hi01_gr_GR_cog.hiVE.R1307.rubric
+hiVE.R1308.rubric = hi.hi01_gr_GR_cog.hiVE.R1308.rubric
+hiVE.R1309.rubric = hi.hi01_gr_GR_cog.hiVE.R1309.rubric
+hiVE.R1310.rubric = hi.hi01_gr_GR_cog.hiVE.R1310.rubric
+hiVE.R1311.rubric = hi.hi01_gr_GR_cog.hiVE.R1311.rubric
+hiVE.R1312.rubric = hi.hi01_gr_GR_cog.hiVE.R1312.rubric
+hiVE.R1313.rubric = hi.hi01_gr_GR_cog.hiVE.R1313.rubric
+hiVE.R1314.rubric = hi.hi01_gr_GR_cog.hiVE.R1314.rubric
 
 hiVE.Key1311.title = hi.hi01_gr_US_goa.hiVE.Key1311.title
 hiVE.Key1311.text = hi.hi01_gr_US_goa.hiVE.Key1311.text
 hiVE.Key1311.exclamation = hi.hi01_gr_US_goa.hiVE.Key1311.exclamation
 
-hiVE.R1315 = hi.hi01_gr_GR_cog.hiVE.R1315
-hiVE.R1316 = hi.hi01_gr_GR_cog.hiVE.R1316
-hiVE.R1317 = hi.hi01_gr_GR_cog.hiVE.R1317
-hiVE.R1318 = hi.hi01_gr_GR_cog.hiVE.R1318
+hiVE.R1315.rubric = hi.hi01_gr_GR_cog.hiVE.R1315.rubric
+hiVE.R1316.rubric = hi.hi01_gr_GR_cog.hiVE.R1316.rubric
+hiVE.R1317.rubric = hi.hi01_gr_GR_cog.hiVE.R1317.rubric
+hiVE.R1318.rubric = hi.hi01_gr_GR_cog.hiVE.R1318.rubric
 
 hiVE.Key1320.title = hi.hi01_gr_GR_cog.hiVE.Key1320.title
-hiVE.R1320 = hi.hi01_gr_GR_cog.hiVE.R1320
+hiVE.R1320.rubric = hi.hi01_gr_GR_cog.hiVE.R1320.rubric
 
 hiVE.Key1330.title = hi.hi01_gr_GR_cog.hiVE.Key1330.title
-hiVE.R1330 = hi.hi01_gr_GR_cog.hiVE.R1330
+hiVE.R1330.rubric = hi.hi01_gr_GR_cog.hiVE.R1330.rubric
 
 hiVE.Key2000.title = hi.hi01_gr_GR_cog.hiVE.Key2000.title
 

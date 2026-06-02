@@ -8,17 +8,17 @@ hoCA.translator = ho.ho24_gr_GR_cog.hoCA.translator
 
 hoCA.media.text = ho.ho24_gr_GR_cog.hoCA.media.text
 
-R01 = ho.ho24_gr_GR_cog.R01
+R01.rubric = ho.ho24_gr_GR_cog.R01.rubric
 /*
 Priest
 [Invocation]
 Reader: Amen
 Ps142.title = ho.ho24_gr_GR_cog.Ps142.title
 Ps142.text = ho.ho24_gr_GR_cog.Ps142.text
-R02 = ho.ho24_gr_GR_cog.R02
+R02.rubric = ho.ho24_gr_GR_cog.R02.rubric
 Mode4
 God is the Lord
-R03 = ho.ho24_gr_GR_cog.R03
+R03.rubric = ho.ho24_gr_GR_cog.R03.rubric
 */
 
 hoCA.Apolytikion1.mode = ho.ho24_gr_GR_cog.hoCA.Apolytikion1.mode
@@ -457,7 +457,7 @@ hoCA.Meg06.melody = ho.ho24_gr_GR_cog.hoCA.Meg06.melody
 hoCA.Meg06.incipit = ho.ho24_gr_GR_cog.hoCA.Meg06.incipit
 hoCA.Meg06.text = ho.ho24_gr_GR_cog.hoCA.Meg06.text
 //R16
-R17 = ho.ho24_gr_GR_cog.R17
+R17.rubric = ho.ho24_gr_GR_cog.R17.rubric
 hoCA.MegTrans1.melody = ho.ho24_gr_GR_cog.hoCA.MegTrans1.melody
 hoCA.MegTrans1.incipit = ho.ho24_gr_GR_cog.hoCA.MegTrans1.incipit
 hoCA.MegTrans1.text = ho.ho24_gr_GR_cog.hoCA.MegTrans1.text

@@ -8,9 +8,9 @@ hoCA.Insert1 = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Insert1
 
 hoCA.media.text = other.vimatarissaparaklesis_gr_GR_cog.hoCA.media.text
 
-R01 = other.vimatarissaparaklesis_gr_GR_cog.R01
-R02 = other.vimatarissaparaklesis_gr_GR_cog.R02
-R03 = other.vimatarissaparaklesis_gr_GR_cog.R03
+R01.rubric = other.vimatarissaparaklesis_gr_GR_cog.R01.rubric
+R02.rubric = other.vimatarissaparaklesis_gr_GR_cog.R02.rubric
+R03.rubric = other.vimatarissaparaklesis_gr_GR_cog.R03.rubric
 
 hoCA.Apolytikion1.mode = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Apolytikion1.mode
 hoCA.Apolytikion1.melody = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Apolytikion1.melody
@@ -32,8 +32,8 @@ hoCA.Apolytikion4.melody = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Apolytikio
 hoCA.Apolytikion4.incipit = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Apolytikion4.incipit
 hoCA.Apolytikion4.text = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Apolytikion4.text
 
-R04 = other.vimatarissaparaklesis_gr_GR_cog.R04
-R05 = other.vimatarissaparaklesis_gr_GR_cog.R05
+R04.rubric = other.vimatarissaparaklesis_gr_GR_cog.R04.rubric
+R05.rubric = other.vimatarissaparaklesis_gr_GR_cog.R05.rubric
 
 hoCA.acrostic = other.vimatarissaparaklesis_gr_GR_cog.hoCA.acrostic
 hoCA.verse = other.vimatarissaparaklesis_gr_GR_cog.hoCA.verse
@@ -44,7 +44,7 @@ hoCA.Ode1H.melody = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Ode1H.melody
 hoCA.Ode1H.incipit = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Ode1H.incipit
 hoCA.Ode1H.text = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Ode1H.text
 
-R06 = other.vimatarissaparaklesis_gr_GR_cog.R06
+R06.rubric = other.vimatarissaparaklesis_gr_GR_cog.R06.rubric
 
 hoCA.Ode10.ode = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Ode10.ode
 hoCA.Ode10.mode = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Ode10.mode
@@ -345,7 +345,7 @@ hoCA.Meg06.melody = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Meg06.melody
 hoCA.Meg06.incipit = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Meg06.incipit
 hoCA.Meg06.text = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Meg06.text
 
-R08 = other.vimatarissaparaklesis_gr_GR_cog.R08
+R08.rubric = other.vimatarissaparaklesis_gr_GR_cog.R08.rubric
 
 hoCA.Meg0F.melody = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Meg0F.melody
 hoCA.Meg0F.incipit = other.vimatarissaparaklesis_gr_GR_cog.hoCA.Meg0F.incipit

@@ -6,31 +6,31 @@ euPEN.translator1 = eu.penance_gr_GR_cog.euPEN.translator1
 euPEN.translator2 = eu.penance_gr_GR_cog.euPEN.translator2
 
 euPEN.Key0100.title = eu.penance_gr_GR_cog.euPEN.Key0100.title
-euPEN.R101 = eu.penance_gr_GR_cog.euPEN.R101
+euPEN.R101.rubric = eu.penance_gr_GR_cog.euPEN.R101.rubric
 euPEN.Key0101.text = eu.penance_gr_GR_cog.euPEN.Key0101.text
 euPEN.Key0101_male.text = eu.penance_gr_GR_cog.euPEN.Key0101_male.text
 euPEN.Key0101_female.text = eu.penance_gr_GR_cog.euPEN.Key0101_female.text
 euPEN.Key0102.text = eu.penance_gr_GR_cog.euPEN.Key0102.text
 
-euPEN.R201 = eu.penance_gr_GR_cog.euPEN.R201
-euPEN.R202 = eu.penance_gr_GR_cog.euPEN.R202
+euPEN.R201.rubric = eu.penance_gr_GR_cog.euPEN.R201.rubric
+euPEN.R202.rubric = eu.penance_gr_GR_cog.euPEN.R202.rubric
 
-euPEN.R203 = eu.penance_gr_GR_cog.euPEN.R203
+euPEN.R203.rubric = eu.penance_gr_GR_cog.euPEN.R203.rubric
 euPEN.Key0201.text = eu.penance_gr_GR_cog.euPEN.Key0201.text
-euPEN.R204 = eu.penance_gr_GR_cog.euPEN.R204
+euPEN.R204.rubric = eu.penance_gr_GR_cog.euPEN.R204.rubric
 
 euPEN.Key0301.text = eu.penance_gr_GR_cog.euPEN.Key0301.text
 euPEN.Key0301_male.text = eu.penance_gr_GR_cog.euPEN.Key0301_male.text
 euPEN.Key0301_female.text = eu.penance_gr_GR_cog.euPEN.Key0301_female.text
 
-euPEN.R401 = eu.penance_gr_GR_cog.euPEN.R401
+euPEN.R401.rubric = eu.penance_gr_GR_cog.euPEN.R401.rubric
 euPEN.Key0401.text = eu.penance_gr_GR_cog.euPEN.Key0401.text
-euPEN.R402 = eu.penance_gr_GR_cog.euPEN.R402
+euPEN.R402.rubric = eu.penance_gr_GR_cog.euPEN.R402.rubric
 euPEN.Key0402.text = eu.penance_gr_GR_cog.euPEN.Key0402.text
-euPEN.R403 = eu.penance_gr_GR_cog.euPEN.R403
+euPEN.R403.rubric = eu.penance_gr_GR_cog.euPEN.R403.rubric
 euPEN.Key0403.text = eu.penance_gr_GR_cog.euPEN.Key0403.text
 
-euPEN.R501 = eu.penance_gr_GR_cog.euPEN.R501
+euPEN.R501.rubric = eu.penance_gr_GR_cog.euPEN.R501.rubric
 euPEN.Key0501.text = eu.penance_gr_GR_cog.euPEN.Key0501.text
 
 euPEN.Key0600.title = eu.penance_gr_GR_cog.euPEN.Key0600.title

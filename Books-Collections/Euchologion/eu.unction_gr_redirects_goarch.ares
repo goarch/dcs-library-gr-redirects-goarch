@@ -3,7 +3,7 @@ A_Resource_Whose_Name = eu.unction_gr_redirects_goarch
 euUNC.title = eu.unction_gr_GR_cog.euUNC.title
 euUNC.translator = eu.unction_gr_GR_cog.euUNC.translator
 
-euUNC.R101 = eu.unction_gr_GR_cog.euUNC.R101
+euUNC.R101.rubric = eu.unction_gr_GR_cog.euUNC.R101.rubric
 euUNC.Key0100.mode = eu.unction_gr_GR_cog.euUNC.Key0100.mode
 euUNC.Key0100.text = eu.unction_gr_GR_cog.euUNC.Key0100.text
 
@@ -272,7 +272,7 @@ euUNC.Troparion.melody = eu.unction_gr_GR_cog.euUNC.Troparion.melody
 euUNC.Troparion.incipit = eu.unction_gr_US_goa.euUNC.Troparion.incipit
 euUNC.Troparion.text = eu.unction_gr_US_goa.euUNC.Troparion.text
 
-euUNC.R201 = eu.unction_gr_US_goa.euUNC.R201
+euUNC.R201.rubric = eu.unction_gr_US_goa.euUNC.R201.rubric
 euUNC.Key0201.text = eu.unction_gr_US_goa.euUNC.Key0201.text
 euUNC.Key0202.title = eu.unction_gr_US_goa.euUNC.Key0202.title
 euUNC.Key0202.text = eu.unction_gr_GR_cog.euUNC.Key0202.text

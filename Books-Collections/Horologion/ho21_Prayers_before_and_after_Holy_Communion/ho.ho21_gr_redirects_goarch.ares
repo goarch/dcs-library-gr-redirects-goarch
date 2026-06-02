@@ -8,7 +8,7 @@ hoCA.poet = ho.ho21_gr_GR_cog.hoCA.poet
 
 hoCA.media.text = ho.ho21_gr_GR_cog.hoCA.media.text
 
-R01 = ho.ho21_gr_GR_cog.R01
+R01.rubric = ho.ho21_gr_GR_cog.R01.rubric
 
 hoCA.Ode11.ode = ho.ho21_gr_GR_cog.hoCA.Ode11.ode
 hoCA.Ode11.mode = ho.ho21_gr_GR_cog.hoCA.Ode11.mode
@@ -173,10 +173,10 @@ hoCA.Ode9T.melody = ho.ho21_gr_GR_cog.hoCA.Ode9T.melody
 hoCA.Ode9T.incipit = ho.ho21_gr_GR_cog.hoCA.Ode9T.incipit
 hoCA.Ode9T.text = ho.ho21_gr_GR_cog.hoCA.Ode9T.text
 
-R02 = ho.ho21_gr_GR_cog.R02
+R02.rubric = ho.ho21_gr_GR_cog.R02.rubric
 
 hoPrayer.Key000.title = ho.ho21_gr_GR_cog.hoPrayer.Key000.title
-R03 = ho.ho21_gr_GR_cog.R03
+R03.rubric = ho.ho21_gr_GR_cog.R03.rubric
 hoPrayer.Key001.title = ho.ho21_gr_GR_cog.hoPrayer.Key001.title
 hoPrayer.Key001.incipit = ho.ho21_gr_GR_cog.hoPrayer.Key001.incipit
 hoPrayer.Key001.text = ho.ho21_gr_GR_cog.hoPrayer.Key001.text
@@ -424,7 +424,7 @@ hoPrayer.Key201_3.text = ho.ho21_gr_GR_cog.hoPrayer.Key201_3.text
 hoPrayer.Key201_4.text = ho.ho21_gr_GR_cog.hoPrayer.Key201_4.text
 hoPrayer.Key201_5.text = ho.ho21_gr_GR_cog.hoPrayer.Key201_5.text
 
-R04 = ho.ho21_gr_GR_cog.R04
+R04.rubric = ho.ho21_gr_GR_cog.R04.rubric
 
 hoPrayer.Key202.title = ho.ho21_gr_GR_cog.hoPrayer.Key202.title
 hoPrayer.Key202.text = ho.ho21_gr_GR_cog.hoPrayer.Key202.text

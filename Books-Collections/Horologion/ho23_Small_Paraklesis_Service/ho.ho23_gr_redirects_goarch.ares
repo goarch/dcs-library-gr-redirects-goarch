@@ -8,9 +8,9 @@ hoCA.translator = ho.ho23_gr_GR_cog.hoCA.translator
 
 hoCA.media.text = ho.ho23_gr_GR_cog.hoCA.media.text
 
-R01 = ho.ho23_gr_GR_cog.R01
-R02 = ho.ho23_gr_GR_cog.R02
-R03 = ho.ho23_gr_GR_cog.R03
+R01.rubric = ho.ho23_gr_GR_cog.R01.rubric
+R02.rubric = ho.ho23_gr_GR_cog.R02.rubric
+R03.rubric = ho.ho23_gr_GR_cog.R03.rubric
 
 hoCA.Apolytikion1.mode = ho.ho23_gr_GR_cog.hoCA.Apolytikion1.mode
 hoCA.Apolytikion1.melody = ho.ho23_gr_GR_cog.hoCA.Apolytikion1.melody
@@ -18,14 +18,14 @@ hoCA.Apolytikion1.greekmelody = ho.ho23_gr_GR_cog.hoCA.Apolytikion1.greekmelody
 hoCA.Apolytikion1.incipit = ho.ho23_gr_GR_cog.hoCA.Apolytikion1.incipit
 hoCA.Apolytikion1.text = ho.ho23_gr_GR_cog.hoCA.Apolytikion1.text
 
-R04 = ho.ho23_gr_GR_cog.R04
+R04.rubric = ho.ho23_gr_GR_cog.R04.rubric
 
 hoCA.Apolytikion2.mode = ho.ho23_gr_GR_cog.hoCA.Apolytikion2.mode
 hoCA.Apolytikion2.melody = ho.ho23_gr_GR_cog.hoCA.Apolytikion2.melody
 hoCA.Apolytikion2.incipit = ho.ho23_gr_GR_cog.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = ho.ho23_gr_GR_cog.hoCA.Apolytikion2.text
 
-R05 = ho.ho23_gr_GR_cog.R05
+R05.rubric = ho.ho23_gr_GR_cog.R05.rubric
 
 hoCA.Ode1H.ode = ho.ho23_gr_GR_cog.hoCA.Ode1H.ode
 hoCA.Ode1H.mode = ho.ho23_gr_GR_cog.hoCA.Ode1H.mode
@@ -389,13 +389,13 @@ hoCA.Meg06.melody = ho.ho23_gr_GR_cog.hoCA.Meg06.melody
 hoCA.Meg06.incipit = ho.ho23_gr_GR_cog.hoCA.Meg06.incipit
 hoCA.Meg06.text = ho.ho23_gr_GR_cog.hoCA.Meg06.text
 //R16
-R17 = ho.ho23_gr_GR_cog.R17
+R17.rubric = ho.ho23_gr_GR_cog.R17.rubric
 hoCA.MegTrans1.melody = ho.ho23_gr_GR_cog.hoCA.MegTrans1.melody
 hoCA.MegTrans1.incipit = ho.ho23_gr_GR_cog.hoCA.MegTrans1.incipit
 hoCA.MegTrans1.text = ho.ho23_gr_GR_cog.hoCA.MegTrans1.text
-R18 = ho.ho23_gr_GR_cog.R18
+R18.rubric = ho.ho23_gr_GR_cog.R18.rubric
 hoCA.MegLocal.text = ho.ho23_gr_GR_cog.hoCA.MegLocal.text
-R19 = ho.ho23_gr_GR_cog.R19
+R19.rubric = ho.ho23_gr_GR_cog.R19.rubric
 hoCA.Meg0F.melody = ho.ho23_gr_GR_cog.hoCA.Meg0F.melody
 hoCA.Meg0F.incipit = ho.ho23_gr_GR_cog.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = ho.ho23_gr_GR_cog.hoCA.Meg0F.text
@@ -438,7 +438,7 @@ hoCA.Troparion7.melody = ho.ho23_gr_GR_cog.hoCA.Troparion7.melody
 hoCA.Troparion7.incipit = ho.ho23_gr_GR_cog.hoCA.Troparion7.incipit
 hoCA.Troparion7.text = ho.ho23_gr_GR_cog.hoCA.Troparion7.text
 
-R24 = ho.ho23_gr_GR_cog.R24
+R24.rubric = ho.ho23_gr_GR_cog.R24.rubric
 
 hoCA.Exaposteilarion1.mode = ho.ho23_gr_GR_cog.hoCA.Exaposteilarion1.mode
 hoCA.Exaposteilarion1.melody = ho.ho23_gr_GR_cog.hoCA.Exaposteilarion1.melody

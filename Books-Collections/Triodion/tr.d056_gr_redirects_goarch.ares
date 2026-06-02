@@ -97,7 +97,7 @@ trMA.Oikos057.text = tr.d056_gr_GR_cog.trMA.Oikos057.text
 trMA.Oikos060.text = tr.d056_gr_GR_cog.trMA.Oikos060.text
 trMA.Oikos061.text = tr.d056_gr_GR_cog.trMA.Oikos061.text
 
-trAK.R001 = tr.d056_gr_GR_cog.trAK.R001
+trAK.R001.rubric = tr.d056_gr_GR_cog.trAK.R001.rubric
 
 trMA.Oikos070.text = tr.d056_gr_GR_cog.trMA.Oikos070.text
 trMA.Oikos071.text = tr.d056_gr_GR_cog.trMA.Oikos071.text

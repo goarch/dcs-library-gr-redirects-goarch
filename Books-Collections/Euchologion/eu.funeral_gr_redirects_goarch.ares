@@ -28,7 +28,7 @@ euFUN.Key0111.text = eu.funeral_gr_GR_cog.euFUN.Key0111.text
 euFUN.Key0112.text = eu.funeral_gr_GR_cog.euFUN.Key0112.text
 
 euFUN.Key0200.title = eu.funeral_gr_GR_cog.euFUN.Key0200.title
-euFUN.R21 = eu.funeral_gr_GR_cog.euFUN.R21
+euFUN.R21.rubric = eu.funeral_gr_GR_cog.euFUN.R21.rubric
 
 euFUN.Key0300.title = eu.funeral_gr_GR_cog.euFUN.Key0300.title
 euFUN.Key0300.mode = eu.funeral_gr_GR_cog.euFUN.Key0300.mode
@@ -59,7 +59,7 @@ euFUN.Key0606.incipit = eu.funeral_gr_GR_cog.euFUN.Key0606.incipit
 euFUN.Key0606.text = eu.funeral_gr_GR_cog.euFUN.Key0606.text
 euFUN.Key0607.text = eu.funeral_gr_GR_cog.euFUN.Key0607.text
 
-euFUN.R061 = eu.funeral_gr_GR_cog.euFUN.R061
+euFUN.R061.rubric = eu.funeral_gr_GR_cog.euFUN.R061.rubric
 
 euFUN.Key0700.title = eu.funeral_gr_GR_cog.euFUN.Key0700.title
 euFUN.Key0700.mode = eu.funeral_gr_GR_cog.euFUN.Key0700.mode
@@ -135,7 +135,7 @@ euFUN.Key0908.text = eu.funeral_gr_GR_cog.euFUN.Key0908.text
 
 euFUN.EpistleProkeimenon.text = eu.funeral_gr_GR_cog.euFUN.EpistleProkeimenon.text
 
-euFUN.brightweek.R091 = eu.funeral_gr_GR_cog.euFUN.brightweek.R091
+euFUN.brightweek.R091.rubric = eu.funeral_gr_GR_cog.euFUN.brightweek.R091.rubric
 
 euFUN.Key1000.title = eu.funeral_gr_GR_cog.euFUN.Key1000.title
 euFUN.Key1001.title = eu.funeral_gr_GR_cog.euFUN.Key1001.title
@@ -168,8 +168,8 @@ euFUN.Key1105.melody = eu.funeral_gr_GR_cog.euFUN.Key1105.melody
 euFUN.Key1105.incipit = eu.funeral_gr_GR_cog.euFUN.Key1105.incipit
 euFUN.Key1105.text = eu.funeral_gr_GR_cog.euFUN.Key1105.text
 
-euFUN.brightweek.R111 = eu.funeral_gr_GR_cog.euFUN.brightweek.R111
-euFUN.brightweek.R112 = eu.funeral_gr_GR_cog.euFUN.brightweek.R112
+euFUN.brightweek.R111.rubric = eu.funeral_gr_GR_cog.euFUN.brightweek.R111.rubric
+euFUN.brightweek.R112.rubric = eu.funeral_gr_GR_cog.euFUN.brightweek.R112.rubric
 
 euFUN.Key1200.title = eu.funeral_gr_GR_cog.euFUN.Key1200.title
 

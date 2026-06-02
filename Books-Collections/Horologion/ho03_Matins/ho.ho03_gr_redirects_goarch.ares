@@ -3,20 +3,20 @@ A_Resource_Whose_Name = ho.ho03_gr_redirects_goarch
 hoMA.title = ho.ho03_gr_GR_cog.hoMA.title
 hoMA.MatinsOrdinary.title = ho.ho03_gr_GR_cog.hoMA.MatinsOrdinary.title
 hoMA.MatinsOrdinary.text = ho.ho03_gr_GR_cog.hoMA.MatinsOrdinary.text
-R01 = ho.ho03_gr_GR_cog.R01
-R02 = ho.ho03_gr_GR_cog.R02
+R01.rubric = ho.ho03_gr_GR_cog.R01.rubric
+R02.rubric = ho.ho03_gr_GR_cog.R02.rubric
 hoMA.Troparion3.text = ho.ho03_gr_GR_cog.hoMA.Troparion3.text
-R3 = ho.ho03_gr_GR_cog.R3
-R4 = ho.ho03_gr_GR_cog.R4
+R3.rubric = ho.ho03_gr_GR_cog.R3.rubric
+R4.rubric = ho.ho03_gr_GR_cog.R4.rubric
 SixPsalms.title = ho.ho03_gr_GR_cog.SixPsalms.title
-R6 = ho.ho03_gr_GR_cog.R6
-R7 = ho.ho03_gr_GR_cog.R7
-R8 = ho.ho03_gr_GR_cog.R8
-R9 = ho.ho03_gr_GR_cog.R9 // (about Lent)
-R10 = ho.ho03_gr_GR_cog.R10
+R6.rubric = ho.ho03_gr_GR_cog.R6.rubric
+R7.rubric = ho.ho03_gr_GR_cog.R7.rubric
+R8.rubric = ho.ho03_gr_GR_cog.R8.rubric
+R9.rubric = ho.ho03_gr_GR_cog.R9.rubric // (about Lent)
+R10.rubric = ho.ho03_gr_GR_cog.R10.rubric
 
 hoMA.Triadics.title = ho.ho03_gr_GR_cog.hoMA.Triadics.title
-R11 = ho.ho03_gr_GR_cog.R11
+R11.rubric = ho.ho03_gr_GR_cog.R11.rubric
 /*
 Title Mode1
 Triadic11
@@ -75,13 +75,13 @@ Both
 Triadic3
 */
 
-R12a = ho.ho03_gr_GR_cog.R12a
-R12b = ho.ho03_gr_GR_cog.R12b
+R12a.rubric = ho.ho03_gr_GR_cog.R12a.rubric
+R12b.rubric = ho.ho03_gr_GR_cog.R12b.rubric
 
 hoMA.ResEvlog.title1 = ho.ho03_gr_GR_cog.hoMA.ResEvlog.title1
 hoMA.ResEvlog.title2 = ho.ho03_gr_GR_cog.hoMA.ResEvlog.title2
 //Title Mode5
-R13 = ho.ho03_gr_GR_cog.R13
+R13.rubric = ho.ho03_gr_GR_cog.R13.rubric
 hoMA.ResEvlogVerse.text = ho.ho03_gr_GR_cog.hoMA.ResEvlogVerse.text
 hoMA.ResEvlog1.mode = ho.ho03_gr_GR_cog.hoMA.ResEvlog1.mode
 hoMA.ResEvlog1.incipit = ho.ho03_gr_GR_cog.hoMA.ResEvlog1.incipit
@@ -106,7 +106,7 @@ hoMA.ResEvlog7.text = ho.ho03_gr_GR_cog.hoMA.ResEvlog7.text
 
 hoMA.FuneralEvlog.title1 = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog.title1
 hoMA.FuneralEvlog.title2 = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog.title2
-R14 = ho.ho03_gr_GR_cog.R14
+R14.rubric = ho.ho03_gr_GR_cog.R14.rubric
 hoMA.FuneralEvlogVerse.text = ho.ho03_gr_GR_cog.hoMA.FuneralEvlogVerse.text
 hoMA.FuneralEvlog1.mode = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog1.mode
 hoMA.FuneralEvlog1.incipit = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog1.incipit
@@ -142,8 +142,8 @@ hoMA.MM.Magnificat.text = ho.ho03_gr_GR_cog.hoMA.MM.Magnificat.text
 hoMA.Ode9.Meg00.incipit = ho.ho03_gr_GR_cog.hoMA.Ode9.Meg00.incipit
 hoMA.Ode9.Meg00.text = ho.ho03_gr_GR_cog.hoMA.Ode9.Meg00.text
 
-R15 = ho.ho03_gr_GR_cog.R15
-R16 = ho.ho03_gr_GR_cog.R16 // (Lent)
+R15.rubric = ho.ho03_gr_GR_cog.R15.rubric
+R16.rubric = ho.ho03_gr_GR_cog.R16.rubric // (Lent)
 /*
 Title On Monday
 ending1
@@ -156,9 +156,9 @@ ending
 Title On Thur
 ending
 Title On Sat
-R17
+R17.rubric
 ending
-R18
+R18.rubric
 ending
 
 Title Photogogics
@@ -244,11 +244,10 @@ hoMA.ExapSatTh.melody = ho.ho03_gr_GR_cog.hoMA.ExapSatTh.melody
 hoMA.ExapSatTh.incipit = ho.ho03_gr_GR_cog.hoMA.ExapSatTh.incipit
 hoMA.ExapSatTh.text = ho.ho03_gr_GR_cog.hoMA.ExapSatTh.text
 
-R19 = ho.ho03_gr_GR_cog.R19
-R20 = ho.ho03_gr_GR_cog.R20
-R21 = ho.ho03_gr_GR_cog.R21
-
-R_Lauds_Hierarchical = ho.ho03_gr_GR_cog.R_Lauds_Hierarchical
+R19.rubric = ho.ho03_gr_GR_cog.R19.rubric
+R20.rubric = ho.ho03_gr_GR_cog.R20.rubric
+R21a.rubric = ho.ho03_gr_GR_cog.R21a.rubric
+R21b.rubric = ho.ho03_gr_GR_cog.R21b.rubric
 
 hoMA.LaudsSunTheotokion.incipit = ho.ho03_gr_GR_cog.hoMA.LaudsSunTheotokion.incipit
 hoMA.LaudsSunTheotokion.text = ho.ho03_gr_GR_cog.hoMA.LaudsSunTheotokion.text
@@ -281,10 +280,10 @@ hoMA.DoxologyVerse16.text = ho.ho03_gr_GR_cog.hoMA.DoxologyVerse16.text
 hoMA.DoxologyVerse17.text = ho.ho03_gr_GR_cog.hoMA.DoxologyVerse17.text
 hoMA.DoxologyVerse18.text = ho.ho03_gr_GR_cog.hoMA.DoxologyVerse18.text
 hoMA.DoxologyVerse19.text = ho.ho03_gr_GR_cog.hoMA.DoxologyVerse19.text
-R22 = ho.ho03_gr_GR_cog.R22
+R22.rubric = ho.ho03_gr_GR_cog.R22.rubric
 hoMA.MM.DoxologyGreatAsmatic.text = ho.ho03_gr_GR_cog.hoMA.MM.DoxologyGreatAsmatic.text
 hoMA.DoxologyVerse20.text = ho.ho03_gr_GR_cog.hoMA.DoxologyVerse20.text
-R23 = ho.ho03_gr_GR_cog.R23
+R23.rubric = ho.ho03_gr_GR_cog.R23.rubric
 hoMA.DoxologySmallIntro.text = ho.ho03_gr_GR_cog.hoMA.DoxologySmallIntro.text
 hoMA.DoxologySmallEnd.text = ho.ho03_gr_GR_cog.hoMA.DoxologySmallEnd.text
 hoMA.SmallDoxology.title = ho.ho03_gr_GR_cog.hoMA.SmallDoxology.title
@@ -297,30 +296,30 @@ hoMA.SmallDoxology2e = ho.ho03_gr_GR_cog.hoMA.SmallDoxology2e
 hoMA.SmallDoxology2n = ho.ho03_gr_GR_cog.hoMA.SmallDoxology2n
 hoMA.SmallDoxology3.text = ho.ho03_gr_GR_cog.hoMA.SmallDoxology3.text
 
-R24 = ho.ho03_gr_GR_cog.R24
-R25 = ho.ho03_gr_GR_cog.R25
-R26 = ho.ho03_gr_GR_cog.R26
-R27 = ho.ho03_gr_GR_cog.R27
-R28 = ho.ho03_gr_GR_cog.R28
+R24.rubric = ho.ho03_gr_GR_cog.R24.rubric
+R25.rubric = ho.ho03_gr_GR_cog.R25.rubric
+R26.rubric = ho.ho03_gr_GR_cog.R26.rubric
+R27.rubric = ho.ho03_gr_GR_cog.R27.rubric
+R28.rubric = ho.ho03_gr_GR_cog.R28.rubric
 hoMA.Apolytikion = ho.ho03_gr_GR_cog.hoMA.Apolytikion
-R29 = ho.ho03_gr_GR_cog.R29 // [maybe unpack]
-R30 = ho.ho03_gr_GR_cog.R30
-R31 = ho.ho03_gr_GR_cog.R31
-R32 = ho.ho03_gr_GR_cog.R32
-R33 = ho.ho03_gr_GR_cog.R33
-R34 = ho.ho03_gr_GR_cog.R34
-R35 = ho.ho03_gr_GR_cog.R35
-R36 = ho.ho03_gr_GR_cog.R36
+R29.rubric = ho.ho03_gr_GR_cog.R29.rubric // [maybe unpack]
+R30.rubric = ho.ho03_gr_GR_cog.R30.rubric
+R31.rubric = ho.ho03_gr_GR_cog.R31.rubric
+R32.rubric = ho.ho03_gr_GR_cog.R32.rubric
+R33.rubric = ho.ho03_gr_GR_cog.R33.rubric
+R34.rubric = ho.ho03_gr_GR_cog.R34.rubric
+R35.rubric = ho.ho03_gr_GR_cog.R35.rubric
+R36.rubric = ho.ho03_gr_GR_cog.R36.rubric
 hoMA.SunTroparion1.mode = ho.ho03_gr_GR_cog.hoMA.SunTroparion1.mode
 hoMA.SunTroparion1.incipit = ho.ho03_gr_GR_cog.hoMA.SunTroparion1.incipit
 hoMA.SunTroparion1.text = ho.ho03_gr_GR_cog.hoMA.SunTroparion1.text
-R37 = ho.ho03_gr_GR_cog.R37
+R37.rubric = ho.ho03_gr_GR_cog.R37.rubric
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = ho.ho03_gr_GR_cog.hoMA.SunTroparion2.mode
 hoMA.SunTroparion2.incipit = ho.ho03_gr_GR_cog.hoMA.SunTroparion2.incipit
 hoMA.SunTroparion2.text = ho.ho03_gr_GR_cog.hoMA.SunTroparion2.text
-R38 = ho.ho03_gr_GR_cog.R38 // [maybe unpack]
-R39 = ho.ho03_gr_GR_cog.R39
+R38.rubric = ho.ho03_gr_GR_cog.R38.rubric // [maybe unpack]
+R39.rubric = ho.ho03_gr_GR_cog.R39.rubric
 
 //Order of Matins Gospel
 hoMA.Antiphon11.title = ho.ho03_gr_GR_cog.hoMA.Antiphon11.title
@@ -376,7 +375,7 @@ hoMA.SunPostGospelIdiomelon.text = ho.ho03_gr_GR_cog.hoMA.SunPostGospelIdiomelon
 hoMA.SunExapVerse1.text = ho.ho03_gr_GR_cog.hoMA.SunExapVerse1.text
 
 //Triodion specific, not in Horologion
-hoMA.RtrSoS01 = ho.ho03_gr_GR_cog.hoMA.RtrSoS01
+R40.rubric = ho.ho03_gr_GR_cog.R40.rubric
 
 //Polyelelos, not in Horologion
 hoMA.MM.PolyeleosPsalm134.text = ho.ho03_gr_GR_cog.hoMA.MM.PolyeleosPsalm134.text

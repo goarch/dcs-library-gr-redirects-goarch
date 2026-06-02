@@ -6,7 +6,7 @@ hoSA.title3 = ho.ho22_gr_GR_cog.hoSA.title3
 hoSA.title4 = ho.ho22_gr_GR_cog.hoSA.title4
 hoSA.title5 = ho.ho22_gr_GR_cog.hoSA.title5
 
-hoSA.R01 = ho.ho22_gr_GR_cog.hoSA.R01
+hoSA.R01.rubric = ho.ho22_gr_GR_cog.hoSA.R01.rubric
 
 hoSA.LastHymn.mode = ho.ho22_gr_GR_cog.hoSA.LastHymn.mode
 hoSA.LastHymn.melody = ho.ho22_gr_GR_cog.hoSA.LastHymn.melody

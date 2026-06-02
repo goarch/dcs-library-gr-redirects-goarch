@@ -4,10 +4,10 @@ euSWB.Key0100.title = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0100.title
 euSWB.translator1 = eu.smallwaterblessing_gr_GR_cog.euSWB.translator1
 euSWB.translator2 = eu.smallwaterblessing_gr_GR_cog.euSWB.translator2
 
-euSWB.R101 = eu.smallwaterblessing_gr_GR_cog.euSWB.R101
-euSWB.R102 = eu.smallwaterblessing_gr_GR_cog.euSWB.R102
+euSWB.R101.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R101.rubric
+euSWB.R102.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R102.rubric
 
-euSWB.R201 = eu.smallwaterblessing_gr_GR_cog.euSWB.R201
+euSWB.R201.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R201.rubric
 
 euSWB.Key0201.mode = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0201.mode
 euSWB.Key0201.melody = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0201.melody
@@ -207,7 +207,7 @@ euSWB.Key0239.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0239.text
 euSWB.Key0240.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0240.incipit
 euSWB.Key0240.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0240.text
 
-euSWB.R301 = eu.smallwaterblessing_gr_GR_cog.euSWB.R301
+euSWB.R301.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R301.rubric
 
 euSWB.Key0301.mode = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0301.mode
 euSWB.Key0301.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0301.incipit
@@ -226,7 +226,7 @@ euSWB.Key0304.mode = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0304.mode
 euSWB.Key0304.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0304.incipit
 euSWB.Key0304.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0304.text
 
-euSWB.R401 = eu.smallwaterblessing_gr_GR_cog.euSWB.R401
+euSWB.R401.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R401.rubric
 euSWB.Key0401a.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0401a.text
 euSWB.Key0401b.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0401b.text
 euSWB.Key0402.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0402.text
@@ -234,7 +234,7 @@ euSWB.Key0403.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0403.text
 euSWB.Key0404.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0404.text
 euSWB.Key0405.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0405.text
 
-euSWB.R501 = eu.smallwaterblessing_gr_GR_cog.euSWB.R501
+euSWB.R501.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R501.rubric
 euSWB.Key0501.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501.incipit
 euSWB.Key0501.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501.text
 euSWB.Key0501a.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0501a.text
@@ -252,18 +252,18 @@ euSWB.Key0503b.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0503b.text
 euSWB.Key0503c.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0503c.text
 euSWB.Key0504.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0504.text
 
-euSWB.R601 = eu.smallwaterblessing_gr_GR_cog.euSWB.R601
+euSWB.R601.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R601.rubric
 euSWB.Key0601.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0601.text
 
-euSWB.R602 = eu.smallwaterblessing_gr_GR_cog.euSWB.R602
+euSWB.R602.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R602.rubric
 
-euSWB.R603 = eu.smallwaterblessing_gr_GR_cog.euSWB.R603
+euSWB.R603.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R603.rubric
 
 euSWB.Key0602.mode = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0602.mode
 euSWB.Key0602.incipit = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0602.incipit
 euSWB.Key0602.text = eu.smallwaterblessing_gr_GR_cog.euSWB.Key0602.text
 
-euSWB.R604 = eu.smallwaterblessing_gr_GR_cog.euSWB.R604
+euSWB.R604.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R604.rubric
 
-euSWB.R605 = eu.smallwaterblessing_gr_GR_cog.euSWB.R605
+euSWB.R605.rubric = eu.smallwaterblessing_gr_GR_cog.euSWB.R605.rubric
 

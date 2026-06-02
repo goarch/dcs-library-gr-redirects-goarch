@@ -143,45 +143,45 @@ cl.saints.array03.text = client_gr_GR_cog.cl.saints.array03.text
 cl.saints.array04.text = client_gr_GR_cog.cl.saints.array04.text
 
 //Rubrics
-cl.eu.lichrysbasil.R001 = client_gr_US_goa.cl.eu.lichrysbasil.R001
-cl.eu.lichrysbasil.R002 = client_gr_US_goa.cl.eu.lichrysbasil.R002
-cl.eu.lichrysbasil.R003 = client_gr_US_goa.cl.eu.lichrysbasil.R003
-cl.eu.lichrysbasil.R004 = client_gr_US_goa.cl.eu.lichrysbasil.R004
-cl.eu.lichrysbasil.R005 = client_gr_US_goa.cl.eu.lichrysbasil.R005
-cl.eu.lichrysbasil.R006 = client_gr_US_goa.cl.eu.lichrysbasil.R006
-cl.eu.lichrysbasil.R007 = client_gr_US_goa.cl.eu.lichrysbasil.R007
-cl.eu.lichrysbasil.R008 = client_gr_US_goa.cl.eu.lichrysbasil.R008
-cl.eu.lichrysbasil.R009 = client_gr_US_goa.cl.eu.lichrysbasil.R009
-cl.eu.lichrysbasil.R010 = client_gr_US_goa.cl.eu.lichrysbasil.R010
-cl.eu.lichrysbasil.R011 = client_gr_US_goa.cl.eu.lichrysbasil.R011
-cl.eu.lichrysbasil.R012 = client_gr_US_goa.cl.eu.lichrysbasil.R012
-cl.eu.lichrysbasil.R013 = client_gr_US_goa.cl.eu.lichrysbasil.R013
-cl.eu.lichrysbasil.R014 = client_gr_US_goa.cl.eu.lichrysbasil.R014
+cl.eu.lichrysbasil.R001.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R001.rubric
+cl.eu.lichrysbasil.R002.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R002.rubric
+cl.eu.lichrysbasil.R003.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R003.rubric
+cl.eu.lichrysbasil.R004.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R004.rubric
+cl.eu.lichrysbasil.R005.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R005.rubric
+cl.eu.lichrysbasil.R006.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R006.rubric
+cl.eu.lichrysbasil.R007.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R007.rubric
+cl.eu.lichrysbasil.R008.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R008.rubric
+cl.eu.lichrysbasil.R009.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R009.rubric
+cl.eu.lichrysbasil.R010.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R010.rubric
+cl.eu.lichrysbasil.R011.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R011.rubric
+cl.eu.lichrysbasil.R012.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R012.rubric
+cl.eu.lichrysbasil.R013.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R013.rubric
+cl.eu.lichrysbasil.R014.rubric = client_gr_US_goa.cl.eu.lichrysbasil.R014.rubric
 
-cl.eu.memorial.sos.R001 = client_gr_US_goa.cl.eu.memorial.sos.R001
+cl.eu.memorial.sos.R001.rubric = client_gr_US_goa.cl.eu.memorial.sos.R001.rubric
 
-cl.eu.presanctified.R001 = client_gr_GR_cog.cl.eu.presanctified.R001
-cl.eu.presanctified.R002 = client_gr_GR_cog.cl.eu.presanctified.R002
-cl.eu.presanctified.R003 = client_gr_GR_cog.cl.eu.presanctified.R003
-cl.eu.presanctified.R004 = client_gr_GR_cog.cl.eu.presanctified.R004
-cl.eu.presanctified.R005 = client_gr_GR_cog.cl.eu.presanctified.R005
-cl.eu.presanctified.R006 = client_gr_GR_cog.cl.eu.presanctified.R006
+cl.eu.presanctified.R001.rubric = client_gr_GR_cog.cl.eu.presanctified.R001.rubric
+cl.eu.presanctified.R002.rubric = client_gr_GR_cog.cl.eu.presanctified.R002.rubric
+cl.eu.presanctified.R003.rubric = client_gr_GR_cog.cl.eu.presanctified.R003.rubric
+cl.eu.presanctified.R004.rubric = client_gr_GR_cog.cl.eu.presanctified.R004.rubric
+cl.eu.presanctified.R005.rubric = client_gr_GR_cog.cl.eu.presanctified.R005.rubric
+cl.eu.presanctified.R006.rubric = client_gr_GR_cog.cl.eu.presanctified.R006.rubric
 
-cl.eu.presanctified.R010 = client_gr_US_goa.cl.eu.presanctified.R010
+cl.eu.presanctified.R010.rubric = client_gr_US_goa.cl.eu.presanctified.R010.rubric
 
-cl.ho.ho03.R001 = client_gr_GR_cog.cl.ho.ho03.R001
-cl.ho.ho06.R001 = client_gr_GR_cog.cl.ho.ho06.R001
+cl.ho.ho03.R001.rubric = client_gr_GR_cog.cl.ho.ho03.R001.rubric
+cl.ho.ho06.R001.rubric = client_gr_GR_cog.cl.ho.ho06.R001.rubric
 
-cl.ho.ho09.R001 = client_gr_GR_cog.cl.ho.ho09.R001
+cl.ho.ho09.R001.rubric = client_gr_GR_cog.cl.ho.ho09.R001.rubric
 
-cl.ho.ho10.R001 = client_gr_GR_cog.cl.ho.ho10.R001
-cl.ho.ho10.R002 = client_gr_GR_cog.cl.ho.ho10.R002
-cl.ho.ho10.R003 = client_gr_GR_cog.cl.ho.ho10.R003
-cl.ho.ho10.R004 = client_gr_GR_cog.cl.ho.ho10.R004
+cl.ho.ho10.R001.rubric = client_gr_GR_cog.cl.ho.ho10.R001.rubric
+cl.ho.ho10.R002.rubric = client_gr_GR_cog.cl.ho.ho10.R002.rubric
+cl.ho.ho10.R003.rubric = client_gr_GR_cog.cl.ho.ho10.R003.rubric
+cl.ho.ho10.R004.rubric = client_gr_GR_cog.cl.ho.ho10.R004.rubric
 
-cl.ho.ho23.R001 = client_gr_GR_cog.cl.ho.ho23.R001
-cl.ho.ho23.R002 = client_gr_GR_cog.cl.ho.ho23.R002
-cl.ho.ho23.R003 = client_gr_GR_cog.cl.ho.ho23.R003
+cl.ho.ho23.R001.rubric = client_gr_GR_cog.cl.ho.ho23.R001.rubric
+cl.ho.ho23.R002.rubric = client_gr_GR_cog.cl.ho.ho23.R002.rubric
+cl.ho.ho23.R003.rubric = client_gr_GR_cog.cl.ho.ho23.R003.rubric
 
 cl.hw.synaxarion.rubric = client_gr_GR_cog.cl.hw.synaxarion.rubric
 
@@ -189,92 +189,92 @@ cl.VE.note1 = client_gr_GR_cog.cl.VE.note1
 cl.MA.note1 = client_gr_GR_cog.cl.MA.note1
 cl.LI.note1 = client_gr_GR_cog.cl.LI.note1
 
-cl.LI.R001 = client_gr_GR_cog.cl.LI.R001
-cl.LI.R002 = client_gr_GR_cog.cl.LI.R002
-cl.LI.R003 = client_gr_GR_cog.cl.LI.R003
-cl.LI.R004 = client_gr_GR_cog.cl.LI.R004
+cl.LI.R001.rubric = client_gr_GR_cog.cl.LI.R001.rubric
+cl.LI.R002.rubric = client_gr_GR_cog.cl.LI.R002.rubric
+cl.LI.R003.rubric = client_gr_GR_cog.cl.LI.R003.rubric
+cl.LI.R004.rubric = client_gr_GR_cog.cl.LI.R004.rubric
 
-cl.me.m01.d06.R001 = client_gr_GR_cog.cl.me.m01.d06.R001
-cl.me.m02.d02.R001 = client_gr_GR_cog.cl.me.m02.d02.R001
-cl.me.m02.d10.R001 = client_gr_GR_cog.cl.me.m02.d10.R001
+cl.me.m01.d06.R001.rubric = client_gr_GR_cog.cl.me.m01.d06.R001.rubric
+cl.me.m02.d02.R001.rubric = client_gr_GR_cog.cl.me.m02.d02.R001.rubric
+cl.me.m02.d10.R001.rubric = client_gr_GR_cog.cl.me.m02.d10.R001.rubric
 
-cl.me.m03.d25.R001 = client_gr_GR_cog.cl.me.m03.d25.R001
+cl.me.m03.d25.R001.rubric = client_gr_GR_cog.cl.me.m03.d25.R001.rubric
 
-cl.me.m08.vespers_entrance.R001 = client_gr_GR_cog.cl.me.m08.vespers_entrance.R001
-cl.me.m08.vespers_canon.R001 = client_gr_GR_cog.cl.me.m08.vespers_canon.R001
+cl.me.m08.vespers_entrance.R001.rubric = client_gr_GR_cog.cl.me.m08.vespers_entrance.R001.rubric
+cl.me.m08.vespers_canon.R001.rubric = client_gr_GR_cog.cl.me.m08.vespers_canon.R001.rubric
 
-cl.me.m09.d01.R001 = client_gr_GR_cog.cl.me.m09.d01.R001
+cl.me.m09.d01.R001.rubric = client_gr_GR_cog.cl.me.m09.d01.R001.rubric
 
 //Sep. 14
-cl.me.m09.d14.R001 = client_gr_GR_cog.cl.me.m09.d14.R001
-cl.me.m09.d14.R002 = client_gr_GR_cog.cl.me.m09.d14.R002
-cl.me.m09.d14.R003 = client_gr_GR_cog.cl.me.m09.d14.R003
-cl.me.m09.d14.R004 = client_gr_GR_cog.cl.me.m09.d14.R004
-cl.me.m09.d14.R005 = client_gr_GR_cog.cl.me.m09.d14.R005
-cl.me.m09.d14.R006 = client_gr_GR_cog.cl.me.m09.d14.R006
-cl.me.m09.d14.R007 = client_gr_GR_cog.cl.me.m09.d14.R007
+cl.me.m09.d14.R001.rubric = client_gr_GR_cog.cl.me.m09.d14.R001.rubric
+cl.me.m09.d14.R002.rubric = client_gr_GR_cog.cl.me.m09.d14.R002.rubric
+cl.me.m09.d14.R003.rubric = client_gr_GR_cog.cl.me.m09.d14.R003.rubric
+cl.me.m09.d14.R004.rubric = client_gr_GR_cog.cl.me.m09.d14.R004.rubric
+cl.me.m09.d14.R005.rubric = client_gr_GR_cog.cl.me.m09.d14.R005.rubric
+cl.me.m09.d14.R006.rubric = client_gr_GR_cog.cl.me.m09.d14.R006.rubric
+cl.me.m09.d14.R007.rubric = client_gr_GR_cog.cl.me.m09.d14.R007.rubric
 
-cl.me.m10.d26.R001 = client_gr_GR_cog.cl.me.m10.d26.R001
+cl.me.m10.d26.R001.rubric = client_gr_GR_cog.cl.me.m10.d26.R001.rubric
 
-cl.me.m11.d09.R001 = client_gr_GR_cog.cl.me.m11.d09.R001
+cl.me.m11.d09.R001.rubric = client_gr_GR_cog.cl.me.m11.d09.R001.rubric
 
 // Nov. 14
-cl.me.m11.d14.R001 = client_gr_GR_cog.cl.me.m11.d14.R001
-cl.me.m11.d14.R002 = client_gr_GR_cog.cl.me.m11.d14.R002
+cl.me.m11.d14.R001.rubric = client_gr_GR_cog.cl.me.m11.d14.R001.rubric
+cl.me.m11.d14.R002.rubric = client_gr_GR_cog.cl.me.m11.d14.R002.rubric
 
-cl.me.m12.d25.R001 = client_gr_GR_cog.cl.me.m12.d25.R001
+cl.me.m12.d25.R001.rubric = client_gr_GR_cog.cl.me.m12.d25.R001.rubric
 
-cl.pe.d072.R001 = client_gr_GR_cog.cl.pe.d072.R001
-cl.pe.d078.R001 = client_gr_GR_cog.cl.pe.d078.R001
-cl.pe.d078.R002 = client_gr_GR_cog.cl.pe.d078.R002
-cl.pe.d110.R001 = client_gr_GR_cog.cl.pe.d110.R001
-cl.pe.d119.R001 = client_gr_GR_cog.cl.pe.d119.R001
+cl.pe.d072.R001.rubric = client_gr_GR_cog.cl.pe.d072.R001.rubric
+cl.pe.d078.R001.rubric = client_gr_GR_cog.cl.pe.d078.R001.rubric
+cl.pe.d078.R002.rubric = client_gr_GR_cog.cl.pe.d078.R002.rubric
+cl.pe.d110.R001.rubric = client_gr_GR_cog.cl.pe.d110.R001.rubric
+cl.pe.d119.R001.rubric = client_gr_GR_cog.cl.pe.d119.R001.rubric
 
 //Service Books
-cl.sb.vo.sun.R001 = client_gr_GR_cog.cl.sb.vo.sun.R001
-cl.sb.vo.sun.R002 = client_gr_GR_cog.cl.sb.vo.sun.R002
-cl.sb.vo.sun.R003 = client_gr_GR_cog.cl.sb.vo.sun.R003
-cl.sb.vo.sun.R004 = client_gr_GR_cog.cl.sb.vo.sun.R004
-cl.sb.vo.sun.R005 = client_gr_GR_cog.cl.sb.vo.sun.R005
-cl.sb.vo.sun.R006 = client_gr_GR_cog.cl.sb.vo.sun.R006
-cl.sb.vo.sun.R007 = client_gr_GR_cog.cl.sb.vo.sun.R007
-cl.sb.vo.sun.R008 = client_gr_GR_cog.cl.sb.vo.sun.R008
+cl.sb.vo.sun.R001.rubric = client_gr_GR_cog.cl.sb.vo.sun.R001.rubric
+cl.sb.vo.sun.R002.rubric = client_gr_GR_cog.cl.sb.vo.sun.R002.rubric
+cl.sb.vo.sun.R003.rubric = client_gr_GR_cog.cl.sb.vo.sun.R003.rubric
+cl.sb.vo.sun.R004.rubric = client_gr_GR_cog.cl.sb.vo.sun.R004.rubric
+cl.sb.vo.sun.R005.rubric = client_gr_GR_cog.cl.sb.vo.sun.R005.rubric
+cl.sb.vo.sun.R006.rubric = client_gr_GR_cog.cl.sb.vo.sun.R006.rubric
+cl.sb.vo.sun.R007.rubric = client_gr_GR_cog.cl.sb.vo.sun.R007.rubric
+cl.sb.vo.sun.R008.rubric = client_gr_GR_cog.cl.sb.vo.sun.R008.rubric
 
-cl.se.R001 = client_gr_GR_cog.cl.se.R001
+cl.se.R001.rubric = client_gr_GR_cog.cl.se.R001.rubric
 
 //Lent Soul Saturday
-cl.tr.d014.R001 = client_gr_GR_cog.cl.tr.d014.R001
-cl.tr.d014.R002 = client_gr_GR_cog.cl.tr.d014.R002
+cl.tr.d014.R001.rubric = client_gr_GR_cog.cl.tr.d014.R001.rubric
+cl.tr.d014.R002.rubric = client_gr_GR_cog.cl.tr.d014.R002.rubric
 
 //Lent Cheese Saturday
-cl.tr.d021.R001 = client_gr_GR_cog.cl.tr.d021.R001
+cl.tr.d021.R001.rubric = client_gr_GR_cog.cl.tr.d021.R001.rubric
 
 //Forgiveness Vespers
-cl.tr.d023.R001 = client_gr_GR_cog.cl.tr.d023.R001
-cl.tr.d023.R002 = client_gr_GR_cog.cl.tr.d023.R002
-cl.tr.d023.R003 = client_gr_GR_cog.cl.tr.d023.R003
+cl.tr.d023.R001.rubric = client_gr_GR_cog.cl.tr.d023.R001.rubric
+cl.tr.d023.R002.rubric = client_gr_GR_cog.cl.tr.d023.R002.rubric
+cl.tr.d023.R003.rubric = client_gr_GR_cog.cl.tr.d023.R003.rubric
 
 //Lent 3
-cl.tr.d043.R001 = client_gr_GR_cog.cl.tr.d043.R001
-cl.tr.d043.R002 = client_gr_GR_cog.cl.tr.d043.R002
-cl.tr.d043.R003 = client_gr_GR_cog.cl.tr.d043.R003
-cl.tr.d043.R011 = client_gr_GR_cog.cl.tr.d043.R011
-cl.tr.d043.R012 = client_gr_GR_cog.cl.tr.d043.R012
+cl.tr.d043.R001.rubric = client_gr_GR_cog.cl.tr.d043.R001.rubric
+cl.tr.d043.R002.rubric = client_gr_GR_cog.cl.tr.d043.R002.rubric
+cl.tr.d043.R003.rubric = client_gr_GR_cog.cl.tr.d043.R003.rubric
+cl.tr.d043.R011.rubric = client_gr_GR_cog.cl.tr.d043.R011.rubric
+cl.tr.d043.R012.rubric = client_gr_GR_cog.cl.tr.d043.R012.rubric
 
 //Sat of Akathist
-cl.tr.d056.R001 = client_gr_GR_cog.cl.tr.d056.R001
+cl.tr.d056.R001.rubric = client_gr_GR_cog.cl.tr.d056.R001.rubric
 
-cl.tr.d069.ma.R001 = client_gr_GR_cog.cl.tr.d069.ma.R001
-cl.tr.d069.gh.R001 = client_gr_GR_cog.cl.tr.d069.gh.R001
-cl.tr.d069.gh.R002 = client_gr_GR_cog.cl.tr.d069.gh.R002
+cl.tr.d069.ma.R001.rubric = client_gr_GR_cog.cl.tr.d069.ma.R001.rubric
+cl.tr.d069.gh.R001.rubric = client_gr_GR_cog.cl.tr.d069.gh.R001.rubric
+cl.tr.d069.gh.R002.rubric = client_gr_GR_cog.cl.tr.d069.gh.R002.rubric
 
-cl.tr.d070.R301 = client_gr_GR_cog.cl.tr.d070.R301
-cl.tr.d070.R302 = client_gr_GR_cog.cl.tr.d070.R302
-cl.tr.d070.R303 = client_gr_GR_cog.cl.tr.d070.R303
-cl.tr.d070.R304 = client_gr_GR_cog.cl.tr.d070.R304
-cl.tr.d070.R305 = client_gr_GR_cog.cl.tr.d070.R305
+cl.tr.d070.R301.rubric = client_gr_GR_cog.cl.tr.d070.R301.rubric
+cl.tr.d070.R302.rubric = client_gr_GR_cog.cl.tr.d070.R302.rubric
+cl.tr.d070.R303.rubric = client_gr_GR_cog.cl.tr.d070.R303.rubric
+cl.tr.d070.R304.rubric = client_gr_GR_cog.cl.tr.d070.R304.rubric
+cl.tr.d070.R305.rubric = client_gr_GR_cog.cl.tr.d070.R305.rubric
 
-cl.tr.d071.mo.R701 = client_gr_GR_cog.cl.tr.d071.mo.R701
+cl.tr.d071.mo.R701.rubric = client_gr_GR_cog.cl.tr.d071.mo.R701.rubric
 
 //keys for merged media files
 cl.tr.d065.ma.mergedscore.text = client_gr_GR_cog.cl.tr.d065.ma.mergedscore.text
@@ -303,17 +303,17 @@ cl.client.VE.key08.text = client_gr_GR_cog.cl.client.VE.key08.text
 cl.client.VE.key09.text = client_gr_GR_cog.cl.client.VE.key09.text
 cl.client.VE.key10.text = client_gr_GR_cog.cl.client.VE.key10.text
 
-cl.client.VE.R001 = client_gr_GR_cog.cl.client.VE.R001
-cl.client.VE.R002 = client_gr_GR_cog.cl.client.VE.R002
-cl.client.VE.R003 = client_gr_GR_cog.cl.client.VE.R003
+cl.client.VE.R001.rubric = client_gr_GR_cog.cl.client.VE.R001.rubric
+cl.client.VE.R002.rubric = client_gr_GR_cog.cl.client.VE.R002.rubric
+cl.client.VE.R003.rubric = client_gr_GR_cog.cl.client.VE.R003.rubric
 
-cl.client.MA.R001 = client_gr_GR_cog.cl.client.MA.R001
-cl.client.MA.R002 = client_gr_GR_cog.cl.client.MA.R002
-cl.client.MA.R003 = client_gr_GR_cog.cl.client.MA.R003
-cl.client.MA.R004 = client_gr_GR_cog.cl.client.MA.R004
+cl.client.MA.R001.rubric = client_gr_GR_cog.cl.client.MA.R001.rubric
+cl.client.MA.R002.rubric = client_gr_GR_cog.cl.client.MA.R002.rubric
+cl.client.MA.R003.rubric = client_gr_GR_cog.cl.client.MA.R003.rubric
+cl.client.MA.R004.rubric = client_gr_GR_cog.cl.client.MA.R004.rubric
 
-cl.client.LI.R001 = client_gr_GR_cog.cl.client.LI.R001
-cl.client.LI.R002 = client_gr_GR_cog.cl.client.LI.R002
+cl.client.LI.R001.rubric = client_gr_GR_cog.cl.client.LI.R001.rubric
+cl.client.LI.R002.rubric = client_gr_GR_cog.cl.client.LI.R002.rubric
 
 //canon of the saint of the parish church for use on Saturdays
 
