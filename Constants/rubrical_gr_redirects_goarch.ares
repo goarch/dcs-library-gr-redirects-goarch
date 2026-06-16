@@ -22,6 +22,8 @@ ru.BeginVespers = rubrical_gr_GR_cog.ru.BeginVespers
 
 ru.BlessingWithTheCross = rubrical_gr_GR_cog.ru.BlessingWithTheCross
 
+ru.CheckHemerologion = rubrical_gr_GR_cog.ru.CheckHemerologion
+
 ru.ChoirLeftBegins = rubrical_gr_GR_cog.ru.ChoirLeftBegins
 
 ru.ChoirRightBegins = rubrical_gr_GR_cog.ru.ChoirRightBegins
