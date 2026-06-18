@@ -83,6 +83,7 @@ cl.monastery2_p = client_gr_US_goa.cl.monastery2_p
 
 cl.localpatronsaint1.supplication = client_gr_US_goa.cl.localpatronsaint1.supplication
 cl.localpatronsaint1.dismissal = client_gr_US_goa.cl.localpatronsaint1.dismissal
+cl.localpatronsaint1.commemoration = client_gr_US_goa.cl.localpatronsaint1.commemoration
 cl.localpatronsaint1.greatcompline = client_gr_US_goa.cl.localpatronsaint1.greatcompline
 
 cl.localchurch.title = client_gr_US_goa.cl.localchurch.title
