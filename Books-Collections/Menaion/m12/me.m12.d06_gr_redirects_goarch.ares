@@ -191,6 +191,13 @@ meVE.AposBoth.melody = me.m12.d06_gr_GR_cog.meVE.AposBoth.melody
 meVE.AposBoth.incipit = me.m12.d06_gr_GR_cog.meVE.AposBoth.incipit
 meVE.AposBoth.text = me.m12.d06_gr_GR_cog.meVE.AposBoth.text
 
+meVE.Apolytikion1.mode = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.mode
+meVE.Apolytikion1.greekmelody = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.greekmelody
+meVE.Apolytikion1.melody = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.melody
+meVE.Apolytikion1.common = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.common
+meVE.Apolytikion1.incipit = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.incipit
+meVE.Apolytikion1.text = me.m12.d06_gr_GR_cog.meVE.Apolytikion1.text
+
 meVE.GeneralApolytikion1.mode = me.m12.d06_gr_GR_cog.meVE.GeneralApolytikion1.mode
 meVE.GeneralApolytikion1.melody = me.m12.d06_gr_GR_cog.meVE.GeneralApolytikion1.melody
 meVE.GeneralApolytikion1.name = me.m12.d06_gr_GR_cog.meVE.GeneralApolytikion1.name

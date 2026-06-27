@@ -79,6 +79,11 @@ meVE.AposTheotokion.melody = me.m10.d06_gr_GR_cog.meVE.AposTheotokion.melody
 meVE.AposTheotokion.incipit = me.m10.d06_gr_GR_cog.meVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = me.m10.d06_gr_GR_cog.meVE.AposTheotokion.text
 
+meVE.Apolytikion1.mode = me.m10.d06_gr_GR_cog.meVE.Apolytikion1.mode
+meVE.Apolytikion1.common = me.m10.d06_gr_GR_cog.meVE.Apolytikion1.common
+meVE.Apolytikion1.incipit = me.m10.d06_gr_GR_cog.meVE.Apolytikion1.incipit
+meVE.Apolytikion1.text = me.m10.d06_gr_GR_cog.meVE.Apolytikion1.text
+
 meVE.GeneralApolytikion1.mode = me.m10.d06_gr_GR_cog.meVE.GeneralApolytikion1.mode
 meVE.GeneralApolytikion1.melody = me.m10.d06_gr_GR_cog.meVE.GeneralApolytikion1.melody
 meVE.MM.GeneralApolytikion1.text = me.m10.d06_gr_GR_cog.meVE.MM.GeneralApolytikion1.text

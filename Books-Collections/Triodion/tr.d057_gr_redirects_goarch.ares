@@ -52,7 +52,11 @@ trVE.AposTheotokion.incipit = tr.d057_gr_GR_cog.trVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = tr.d057_gr_GR_cog.trVE.AposTheotokion.text
 
 trVE.Apolytikion1.mode = tr.d057_gr_GR_cog.trVE.Apolytikion1.mode
+trVE.Apolytikion1.common = tr.d057_gr_GR_cog.trVE.Apolytikion1.common
 trVE.Apolytikion1.melody = tr.d057_gr_GR_cog.trVE.Apolytikion1.melody
+trVE.Apolytikion1.incipit = tr.d057_gr_GR_cog.trVE.Apolytikion1.incipit
+trVE.Apolytikion1.text = tr.d057_gr_GR_cog.trVE.Apolytikion1.text
+
 trVE.GeneralApolytikion1.name = tr.d057_gr_GR_cog.trVE.GeneralApolytikion1.name
 trVE.Apolytikion1.text = tr.d057_gr_GR_cog.trVE.Apolytikion1.text
 
