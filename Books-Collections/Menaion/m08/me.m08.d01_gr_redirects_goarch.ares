@@ -85,7 +85,7 @@ meVE.Aposticha3.incipit = me.m08.d01_gr_GR_cog.meVE.Aposticha3.incipit
 meVE.Aposticha3.text = me.m08.d01_gr_GR_cog.meVE.Aposticha3.text
 
 meVE.AposGlory.mode = me.m08.d01_gr_GR_cog.meVE.AposGlory.mode
-meVE.AposGlory.Poet = me.m08.d01_gr_GR_cog.meVE.AposGlory.Poet
+meVE.AposGlory.poet = me.m08.d01_gr_GR_cog.meVE.AposGlory.poet
 meVE.AposGlory.melody = me.m08.d01_gr_GR_cog.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m08.d01_gr_GR_cog.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m08.d01_gr_GR_cog.meVE.AposGlory.text
