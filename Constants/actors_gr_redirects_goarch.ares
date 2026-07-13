@@ -80,14 +80,10 @@ ac.LC.Archbishop = actors_gr_GR_cog.ac.LC.Archbishop
 ac.LC.Hierarch = actors_gr_GR_cog.ac.LC.Hierarch
 ac.LC.Deacon = actors_gr_GR_cog.ac.LC.Deacon
 
-//ac.sb.BlCh = actors_gr_GR_cog.ac.sb.BlCh
-ac.sb.DeBl = actors_gr_GR_cog.ac.sb.DeBl
-//ac.sb.BlHi = actors_gr_GR_cog.ac.sb.BlHi
-
-//ac.sb.ChCl = actors_gr_GR_cog.ac.sb.ChCl
 ac.sb.ChBl = actors_gr_GR_cog.ac.sb.ChBl
 ac.sb.ChHi = actors_gr_GR_cog.ac.sb.ChHi
 ac.sb.ClHi = actors_gr_GR_cog.ac.sb.ClHi
+ac.sb.DeBl = actors_gr_GR_cog.ac.sb.DeBl
 ac.sb.DePe = actors_gr_GR_cog.ac.sb.DePe
 ac.sb.DePr= actors_gr_GR_cog.ac.sb.DePr
 ac.sb.PrCl = actors_gr_GR_cog.ac.sb.PrCl
