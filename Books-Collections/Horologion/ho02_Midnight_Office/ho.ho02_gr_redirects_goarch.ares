@@ -20,6 +20,10 @@ hoMO.StBasilPrayer2.rubric = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer2.rubric
 hoMO.StBasilPrayer2.title = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer2.title
 hoMO.StBasilPrayer2.text = ho.ho02_gr_GR_cog.hoMO.StBasilPrayer2.text
 
+hoMO.TroparionForDeceased.mode = ho.ho02_gr_GR_cog.hoMO.TroparionForDeceased.mode
+hoMO.TroparionForDeceased.incipit = ho.ho02_gr_GR_cog.hoMO.TroparionForDeceased.incipit
+hoMO.TroparionForDeceased.text = ho.ho02_gr_GR_cog.hoMO.TroparionForDeceased.text
+
 hoMO.PrayerForDeceased.rubric = ho.ho02_gr_GR_cog.hoMO.PrayerForDeceased.rubric
 hoMO.PrayerForDeceased.title = ho.ho02_gr_GR_cog.hoMO.PrayerForDeceased.title
 hoMO.PrayerForDeceased.text = ho.ho02_gr_GR_cog.hoMO.PrayerForDeceased.text
