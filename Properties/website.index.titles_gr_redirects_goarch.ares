@@ -27,8 +27,8 @@ index.day.title = website.index.titles_gr_GR_cog.index.day.title
 index.day.title2.date.prefix = website.index.titles_gr_GR_cog.index.day.title2.date.prefix
 index.day.date.format = website.index.titles_gr_GR_cog.index.day.date.format
 index.day.title2.date.suffix = website.index.titles_gr_GR_cog.index.day.title2.date.suffix
-index.day.description1 = website.index.titles_gr_GR_cog.index.day.description1
-index.day.description2 = website.index.titles_gr_GR_cog.index.day.description2
+//index.day.description1 = website.index.titles_gr_GR_cog.index.day.description1
+//ndex.day.description2 = website.index.titles_gr_GR_cog.index.day.description2
 //index.day.description3 = website.index.titles_gr_GR_cog.//index.day.description3
 //You can have any number of index.day.descriptions, e.g.
 //index.day.description4 = website.index.titles_gr_GR_cog.//index.day.description4
