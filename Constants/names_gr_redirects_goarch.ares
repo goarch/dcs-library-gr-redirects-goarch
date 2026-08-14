@@ -125,3 +125,8 @@ name.savasfathers.relic3.name = names_gr_US_goa.name.savasfathers.relic3.name
 name.spyridon.localsaint1.supplication = names_gr_US_goa.name.spyridon.localsaint1.supplication
 name.spyridon.localsaint1.dismissal = names_gr_US_goa.name.spyridon.localsaint1.dismissal
 name.spyridon.localchurch.title = names_gr_US_goa.name.spyridon.localchurch.title
+
+name.transfiguration.localchurch.title = names_gr_US_goa.name.transfiguration.localchurch.title
+name.transfiguration.conVE.SticBoth.churchname.text = names_gr_US_goa.name.transfiguration.conVE.SticBoth.churchname.text
+name.transfiguration.consecration.name = names_gr_US_goa.name.transfiguration.consecration.name
+name.transfiguration.consecration.prayer1 = names_gr_US_goa.name.transfiguration.consecration.prayer1
