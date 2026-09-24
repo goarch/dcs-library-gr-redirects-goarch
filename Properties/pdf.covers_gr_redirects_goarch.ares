@@ -44,3 +44,5 @@ matinsordinary.paschal.link.GE = pdf.covers_gr_US_goa.matinsordinary.paschal.lin
 matinsordinary.paschal.link.E = pdf.covers_gr_US_goa.matinsordinary.paschal.link.E
 matinsordinary.ascension.link.GE = pdf.covers_gr_US_goa.matinsordinary.ascension.link.GE
 matinsordinary.ascension.link.E = pdf.covers_gr_US_goa.matinsordinary.ascension.link.E
+
+coverlogo.link = pdf.covers_gr_US_goa.coverlogo.link

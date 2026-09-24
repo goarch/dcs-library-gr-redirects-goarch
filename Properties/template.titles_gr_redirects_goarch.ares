@@ -182,10 +182,14 @@ hw.pdf.cover = template.titles_gr_US_goa.hw.pdf.cover
 li.html.tab = template.titles_gr_US_goa.li.html.tab
 li.pdf.header = template.titles_gr_US_goa.li.pdf.header
 li.pdf.cover = template.titles_gr_US_goa.li.pdf.cover
+li.pdf.cover1 = template.titles_gr_US_goa.li.pdf.cover1
+li.pdf.cover2 = template.titles_gr_US_goa.li.pdf.cover2
 
 lib.html.tab = template.titles_gr_US_goa.lib.html.tab
 lib.pdf.header = template.titles_gr_US_goa.lib.pdf.header
 lib.pdf.cover = template.titles_gr_US_goa.lib.pdf.cover
+lib.pdf.cover1 = template.titles_gr_US_goa.lib.pdf.cover1
+lib.pdf.cover2 = template.titles_gr_US_goa.lib.pdf.cover2
 
 li1.html.tab = template.titles_gr_US_goa.li1.html.tab
 li1.pdf.header = template.titles_gr_US_goa.li1.pdf.header
@@ -210,6 +214,8 @@ li5.pdf.cover = template.titles_gr_US_goa.li5.pdf.cover
 li6.html.tab = template.titles_gr_US_goa.li6.html.tab
 li6.pdf.header = template.titles_gr_US_goa.li6.pdf.header
 li6.pdf.cover = template.titles_gr_US_goa.li6.pdf.cover
+li6.pdf.cover1 = template.titles_gr_US_goa.li6.pdf.cover1
+li6.pdf.cover2 = template.titles_gr_US_goa.li6.pdf.cover2
 
 li7.html.tab = template.titles_gr_US_goa.li7.html.tab
 li7.pdf.header = template.titles_gr_US_goa.li7.pdf.header
