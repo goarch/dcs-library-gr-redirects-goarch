@@ -80,10 +80,10 @@ hierSAN.entrance.text = hierarchs_gr_US_goa.hierSAN.entrance.text
 hierSAN.commemoration.text = hierarchs_gr_US_goa.hierSAN.commemoration.text
 hierSAN.con_ord_petition_name.text = hierarchs_gr_US_goa.hierSAN.con_ord_petition_name.text
 
-bishop.athenagoras.sanfrancisco.pet06.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.pet06.text
-bishop.athenagoras.sanfrancisco.pet19.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.pet19.text
-bishop.athenagoras.commemoration.text = hierarchs_gr_US_goa.bishop.athenagoras.commemoration.text
-bishop.athenagoras.sanfrancisco.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.con_ord_petition_name.text
+//bishop.athenagoras.sanfrancisco.pet06.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.pet06.text
+//bishop.athenagoras.sanfrancisco.pet19.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.pet19.text
+//bishop.athenagoras.commemoration.text = hierarchs_gr_US_goa.bishop.athenagoras.commemoration.text
+//bishop.athenagoras.sanfrancisco.con_ord_petition_name.text = hierarchs_gr_US_goa.bishop.athenagoras.sanfrancisco.con_ord_petition_name.text
 
 bishop.ioannis.sanfrancisco.pet06.text = hierarchs_gr_US_goa.bishop.ioannis.sanfrancisco.pet06.text
 bishop.ioannis.sanfrancisco.pet19.text = hierarchs_gr_US_goa.bishop.ioannis.sanfrancisco.pet19.text
