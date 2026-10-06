@@ -86,6 +86,7 @@ ac.sb.ClHi = actors_gr_GR_cog.ac.sb.ClHi
 ac.sb.DeBl = actors_gr_GR_cog.ac.sb.DeBl
 ac.sb.DePe = actors_gr_GR_cog.ac.sb.DePe
 ac.sb.DePr= actors_gr_GR_cog.ac.sb.DePr
+ac.sb.PrBl = actors_gr_GR_cog.ac.sb.PrBl
 ac.sb.PrCl = actors_gr_GR_cog.ac.sb.PrCl
 ac.sb.PrHi = actors_gr_GR_cog.ac.sb.PrHi
 ac.sb.ReHi = actors_gr_GR_cog.ac.sb.ReHi
