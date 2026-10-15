@@ -29,6 +29,14 @@ name.catherine.localsaint1.supplication = names_gr_US_goa.name.catherine.localsa
 name.catherine.localsaint1.dismissal = names_gr_US_goa.name.catherine.localsaint1.dismissal
 name.catherine.localchurch.title = names_gr_US_goa.name.catherine.localchurch.title
 
+name.chrysostom.localsaint1.supplication = names_gr_US_goa.name.chrysostom.localsaint1.supplication
+name.chrysostom.localsaint1.dismissal = names_gr_US_goa.name.chrysostom.localsaint1.dismissal 
+name.chrysostom.localchurch.title = names_gr_US_goa.name.chrysostom.localchurch.title
+name.chrysostom.conVE.SticBoth.churchname.text = names_gr_US_goa.name.chrysostom.conVE.SticBoth.churchname.text
+name.chrysostom.consecration.name = names_gr_US_goa.name.chrysostom.consecration.name
+name.chrysostom.consecration.prayer1 = names_gr_US_goa.name.chrysostom.consecration.prayer1 
+name.chrysostom.consecration.greatlitany.finalpetition.name = names_gr_US_goa.name.chrysostom.consecration.greatlitany.finalpetition.name
+
 name.constantine.localsaint1.supplication = names_gr_US_goa.name.constantine.localsaint1.supplication
 name.constantine.localsaint1.dismissal = names_gr_US_goa.name.constantine.localsaint1.dismissal
 name.constantine.localchurch.title = names_gr_US_goa.name.constantine.localchurch.title

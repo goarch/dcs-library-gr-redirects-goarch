@@ -161,6 +161,7 @@ euCA.Ode3T.incipit = eu.consecration_gr_US_goa.euCA.Ode3T.incipit
 euCA.Ode3T.text = eu.consecration_gr_US_goa.euCA.Ode3T.text
 
 euMA.Ode3Kathisma1.mode = eu.consecration_gr_GR_cog.euMA.Ode3Kathisma1.mode
+euMA.Ode3Kathisma1.greekmelody = eu.consecration_gr_GR_cog.euMA.Ode3Kathisma1.greekmelody
 euMA.Ode3Kathisma1.melody = eu.consecration_gr_GR_cog.euMA.Ode3Kathisma1.melody
 euMA.Ode3Kathisma1.incipit = eu.consecration_gr_GR_cog.euMA.Ode3Kathisma1.incipit
 euMA.Ode3Kathisma1.text = eu.consecration_gr_GR_cog.euMA.Ode3Kathisma1.text
