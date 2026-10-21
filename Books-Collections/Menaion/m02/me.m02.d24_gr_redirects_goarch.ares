@@ -465,11 +465,6 @@ meMA.AposGlory.melody = me.m02.d24_gr_GR_cog.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m02.d24_gr_GR_cog.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m02.d24_gr_GR_cog.meMA.AposGlory.text
 
-meMA.AposTheotokion.mode = me.m02.d24_gr_GR_cog.meMA.AposTheotokion.mode
-meMA.AposTheotokion.melody = me.m02.d24_gr_GR_cog.meMA.AposTheotokion.melody
-meMA.AposTheotokion.incipit = me.m02.d24_gr_GR_cog.meMA.AposTheotokion.incipit
-meMA.AposTheotokion.text = me.m02.d24_gr_GR_cog.meMA.AposTheotokion.text
-
 meLI.Kontakion1.mode = me.m02.d24_gr_GR_cog.meLI.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m02.d24_gr_GR_cog.meLI.Kontakion1.greekmelody
 meLI.Kontakion1.melody = me.m02.d24_gr_GR_cog.meLI.Kontakion1.melody

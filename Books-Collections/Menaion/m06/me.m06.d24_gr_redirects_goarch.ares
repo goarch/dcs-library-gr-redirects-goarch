@@ -740,11 +740,6 @@ meMA.LaudsGlory.melody = me.m06.d24_gr_GR_cog.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m06.d24_gr_GR_cog.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m06.d24_gr_GR_cog.meMA.LaudsGlory.text
 
-meMA.LaudsTheotokion.mode = me.m06.d24_gr_GR_cog.meMA.LaudsTheotokion.mode
-meMA.LaudsTheotokion.melody = me.m06.d24_gr_GR_cog.meMA.LaudsTheotokion.melody
-meMA.LaudsTheotokion.incipit = me.m06.d24_gr_GR_cog.meMA.LaudsTheotokion.incipit
-meMA.LaudsTheotokion.text = me.m06.d24_gr_GR_cog.meMA.LaudsTheotokion.text
-
 meMA.MM.Lauds1234as5678.text = me.m06.d24_gr_GR_cog.meMA.MM.Lauds1234as5678.text
 
 meLI.Kontakion1.mode = me.m06.d24_gr_GR_cog.meLI.Kontakion1.mode

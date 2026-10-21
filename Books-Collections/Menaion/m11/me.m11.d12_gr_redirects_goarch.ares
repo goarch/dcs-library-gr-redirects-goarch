@@ -99,11 +99,6 @@ meVE.AposGlorya.melody = me.m11.d12_gr_GR_cog.meVE.AposGlorya.melody
 meVE.AposGlorya.incipit = me.m11.d12_gr_GR_cog.meVE.AposGlorya.incipit
 meVE.AposGlorya.text = me.m11.d12_gr_GR_cog.meVE.AposGlorya.text
 
-meVE.AposTheotokion.mode = me.m11.d12_gr_GR_cog.meVE.AposTheotokion.mode
-meVE.AposTheotokion.melody = me.m11.d12_gr_GR_cog.meVE.AposTheotokion.melody
-meVE.AposTheotokion.incipit = me.m11.d12_gr_GR_cog.meVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = me.m11.d12_gr_GR_cog.meVE.AposTheotokion.text
-
 meVE.AposStavrotheotokion.mode = me.m11.d12_gr_GR_cog.meVE.AposStavrotheotokion.mode
 meVE.AposStavrotheotokion.greekmelody = me.m11.d12_gr_GR_cog.meVE.AposStavrotheotokion.greekmelody
 meVE.AposStavrotheotokion.melody = me.m11.d12_gr_GR_cog.meVE.AposStavrotheotokion.melody

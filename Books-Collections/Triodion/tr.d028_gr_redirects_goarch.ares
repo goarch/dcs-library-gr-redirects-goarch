@@ -920,11 +920,6 @@ trMA.LaudsGlory.melody = tr.d028_gr_GR_cog.trMA.LaudsGlory.melody
 trMA.LaudsGlory.incipit = tr.d028_gr_GR_cog.trMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = tr.d028_gr_GR_cog.trMA.LaudsGlory.text
 
-trMA.LaudsTheotokion.mode = tr.d028_gr_GR_cog.trMA.LaudsTheotokion.mode
-trMA.LaudsTheotokion.melody = tr.d028_gr_GR_cog.trMA.LaudsTheotokion.melody
-trMA.LaudsTheotokion.incipit = tr.d028_gr_GR_cog.trMA.LaudsTheotokion.incipit
-trMA.LaudsTheotokion.text = tr.d028_gr_GR_cog.trMA.LaudsTheotokion.text
-
 trMA.Aposticha1.mode = tr.d028_gr_GR_cog.trMA.Aposticha1.mode
 trMA.Aposticha1.melody = tr.d028_gr_GR_cog.trMA.Aposticha1.melody
 trMA.Aposticha1.incipit = tr.d028_gr_GR_cog.trMA.Aposticha1.incipit

@@ -1,6 +1,5 @@
 A_Resource_Whose_Name = eu.blessingofloaves_gr_redirects_goarch
 
-
 euBOL.title = eu.blessingofloaves_gr_US_goa.euBOL.title
 
 euBOL.R01.rubric = eu.blessingofloaves_gr_US_goa.euBOL.R01.rubric
@@ -12,7 +11,6 @@ euBOL.Key1001.incipit = eu.blessingofloaves_gr_US_goa.euBOL.Key1001.incipit
 euBOL.Key1001.text = eu.blessingofloaves_gr_US_goa.euBOL.Key1001.text
 euBOL.Key1001a.text = eu.blessingofloaves_gr_US_goa.euBOL.Key1001a.text
 euBOL.Key1001b.text = eu.blessingofloaves_gr_US_goa.euBOL.Key1001b.text
-
 
 euBOL.R03.rubric = eu.blessingofloaves_gr_US_goa.euBOL.R03.rubric
 euBOL.hR03.rubric = eu.blessingofloaves_gr_US_goa.euBOL.hR03.rubric
