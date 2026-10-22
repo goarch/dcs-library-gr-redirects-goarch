@@ -80,11 +80,6 @@ meVE.LityGlory.melody = me.m07.d01_gr_GR_cog.meVE.LityGlory.melody
 meVE.LityGlory.incipit = me.m07.d01_gr_GR_cog.meVE.LityGlory.incipit
 meVE.LityGlory.text = me.m07.d01_gr_GR_cog.meVE.LityGlory.text
 
-meVE.LityBoth.mode = me.m07.d01_gr_GR_cog.meVE.LityBoth.mode
-meVE.LityBoth.melody = me.m07.d01_gr_GR_cog.meVE.LityBoth.melody
-meVE.LityBoth.incipit = me.m07.d01_gr_GR_cog.meVE.LityBoth.incipit
-meVE.LityBoth.text = me.m07.d01_gr_GR_cog.meVE.LityBoth.text
-
 meVE.Aposticha1.mode = me.m07.d01_gr_GR_cog.meVE.Aposticha1.mode
 meVE.Aposticha1.greekmelody = me.m07.d01_gr_GR_cog.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m07.d01_gr_GR_cog.meVE.Aposticha1.melody

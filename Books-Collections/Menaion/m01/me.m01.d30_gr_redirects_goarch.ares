@@ -48,11 +48,6 @@ meSV.SticGlory.melody = me.m01.d30_gr_GR_cog.meSV.SticGlory.melody
 meSV.SticGlory.incipit = me.m01.d30_gr_GR_cog.meSV.SticGlory.incipit
 meSV.SticGlory.text = me.m01.d30_gr_GR_cog.meSV.SticGlory.text
 
-meSV.SticBoth.mode = me.m01.d30_gr_GR_cog.meSV.SticBoth.mode
-meSV.SticBoth.melody = me.m01.d30_gr_GR_cog.meSV.SticBoth.melody
-meSV.SticBoth.incipit = me.m01.d30_gr_GR_cog.meSV.SticBoth.incipit
-meSV.SticBoth.text = me.m01.d30_gr_GR_cog.meSV.SticBoth.text
-
 meSV.Aposticha1.mode = me.m01.d30_gr_GR_cog.meSV.Aposticha1.mode
 meSV.Aposticha1.melody = me.m01.d30_gr_GR_cog.meSV.Aposticha1.melody
 meSV.Aposticha1.incipit = me.m01.d30_gr_GR_cog.meSV.Aposticha1.incipit
