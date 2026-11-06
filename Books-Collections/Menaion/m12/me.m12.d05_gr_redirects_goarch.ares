@@ -146,15 +146,17 @@ meVE.AposTheotokion.melody = me.m12.d05_gr_GR_cog.meVE.AposTheotokion.melody
 meVE.AposTheotokion.incipit = me.m12.d05_gr_GR_cog.meVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = me.m12.d05_gr_GR_cog.meVE.AposTheotokion.text
 
-meVE.Apolytikion1ger.poet = me.m12.d05_gr_GR_cog.meVE.Apolytikion1ger.poet
-meVE.Apolytikion1ger.mode = me.m12.d05_gr_GR_cog.meVE.Apolytikion1ger.mode
-meVE.Apolytikion1ger.greekmelody = me.m12.d05_gr_GR_cog.meVE.Apolytikion1ger.greekmelody
-meVE.Apolytikion1ger.melody = me.m12.d05_gr_GR_cog.meVE.Apolytikion1ger.melody
-meVE.Apolytikion1ger.incipit = me.m12.d05_gr_GR_cog.meVE.Apolytikion1ger.incipit
-meVE.Apolytikion1ger.text = me.m12.d05_gr_GR_cog.meVE.Apolytikion1ger.text
+meVE.Apolytikion1.mode = me.m12.d05_gr_GR_cog.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m12.d05_gr_GR_cog.meVE.Apolytikion1.melody
+meVE.Apolytikion1.incipit = me.m12.d05_gr_GR_cog.meVE.Apolytikion1.incipit
+meVE.Apolytikion1.text = me.m12.d05_gr_GR_cog.meVE.Apolytikion1.text
 
-meVE.GeneralApolytikion1.name = me.m12.d05_gr_GR_cog.meVE.GeneralApolytikion1.name
-meVE.MM.GeneralApolytikion1.text = me.m12.d05_gr_GR_cog.meVE.MM.GeneralApolytikion1.text
+meVE.Apolytikion2ger.poet = me.m12.d05_gr_GR_cog.meVE.Apolytikion2ger.poet
+meVE.Apolytikion2ger.mode = me.m12.d05_gr_GR_cog.meVE.Apolytikion2ger.mode
+meVE.Apolytikion2ger.greekmelody = me.m12.d05_gr_GR_cog.meVE.Apolytikion2ger.greekmelody
+meVE.Apolytikion2ger.melody = me.m12.d05_gr_GR_cog.meVE.Apolytikion2ger.melody
+meVE.Apolytikion2ger.incipit = me.m12.d05_gr_GR_cog.meVE.Apolytikion2ger.incipit
+meVE.Apolytikion2ger.text = me.m12.d05_gr_GR_cog.meVE.Apolytikion2ger.text
 
 meMA.Kathisma11.mode = me.m12.d05_gr_GR_cog.meMA.Kathisma11.mode
 meMA.Kathisma11.greekmelody = me.m12.d05_gr_GR_cog.meMA.Kathisma11.greekmelody
