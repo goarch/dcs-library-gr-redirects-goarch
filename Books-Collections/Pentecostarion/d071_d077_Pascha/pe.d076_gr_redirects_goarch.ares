@@ -404,6 +404,7 @@ peMA.Lauds8.text = pe.d076_gr_GR_cog.peMA.Lauds8.text
 
 peMA.MM.Lauds12as12.text = pe.d076_gr_GR_cog.peMA.MM.Lauds12as12.text
 peMA.MM.Lauds1234as1234.text = pe.d076_gr_GR_cog.peMA.MM.Lauds1234as1234.text
+peMA.MM.Lauds567as678.text = pe.d076_gr_GR_cog.peMA.MM.Lauds567as678.text
 peMA.MM.Lauds5678as5678.text = pe.d076_gr_GR_cog.peMA.MM.Lauds5678as5678.text
 
 peLI.Megalynarion.rubric = pe.d076_gr_GR_cog.peLI.Megalynarion.rubric
